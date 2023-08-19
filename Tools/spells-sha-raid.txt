@@ -5,33 +5,33 @@
 ; -------------------------------------
 
 ; Boss: Valinor, the Light of Eons
-327274	Unleashed Anima
-327246	Anima Charge
-327280	Recharge Anima
-327262	Charged Anima Blast
-327255	Mark of Penitence
+327274	Entfesselte Anima
+327246	Animaladung
+327280	Anima wiederaufladen
+327262	Geladene Animaexplosion
+327255	Mal der Reue
 
 ; Boss: Mortanis
-338848	Spine Crawl
-338847	Unholy Frenzy
-338851	Screaming Skull
-338846	Bone Cleave
-338849	Unruly Remains
-338850	Lord of the Fallen
+338848	Kriechendes Rückgrat
+338847	Unheilige Raserei
+338851	Schreiender Schädel
+338846	Knochenspalten
+338849	Widerspenstige Überreste
+338850	Herr der Gefallenen
 
 ; Boss: Oranomonos the Everbranching
-338855	Seeds of Sorrow
-338856	Dirge of the Fallen Sanctum
-338853	Rapid Growth
-338852	Implant
-338857	Regrowth
+338855	Saat des Kummers
+338856	Klagelied des gefallenen Sanktums
+338853	Schnelles Wachstum
+338852	Einpflanzen
+338857	Nachwachsen
 
 ; Boss: Nurgash Muckformed
-338867	Hail of Stones
-338868	Deep Slumber
-338864	Earthen Blast
-338863	Stone Stomp
-338858	Stone Fist
+338867	Steinhagel
+338868	Tiefer Schlummer
+338864	Erdexplosion
+338863	Steinstampfen
+338858	Steinfaust
 
 ; Boss: Mor'geth, Tormentor of the Damned
 
@@ -43,200 +43,200 @@
 ; -------------------------------------
 
 ; Boss: Trash
-343322	Curse of Moldovaak
-343320	Curse of Caramain
-343325	Curse of Sindrel
-343316	Curse of Hargitas
-343155	Stoneskin
-343302	Granite Wings
-329989	Enrage
-341441	Ground Smash
-341352	Mastercrafted Gamesman's Snare
-341735	Restore Stone
-340630	Rotting
-329298	Gluttonous Miasma
-339553	Lingering Anima
-339557	Bottled Anima
-339528	Warped Desires
-339525	Concentrate Anima
-342770	Eradication Seeds
-339975	Grievous Strike
-342752	Weeping Burden
-341146	Sin Bolt Volley
-343271	Ravenous Feast
+343322	Fluch von Moldovaak
+343320	Fluch von Caramain
+343325	Fluch von Sindrel
+343316	Fluch von Hargitas
+343155	Steinhaut
+343302	Granitflügel
+329989	Wutanfall
+341441	Bodenzerkracher
+341352	Meisterhaft gefertigte Schlinge des Manipulators
+341735	Stein wiederherstellen
+340630	Verrottend
+329298	Gefräßiges Miasma
+339553	Verbleibende Anima
+339557	Abgefüllte Anima
+339528	Verzerrte Begierden
+339525	Animakonzentration
+342770	Ausrottungssaaten
+339975	Erbitterter Schlag
+342752	Weinende Bürde
+341146	Sündenblitzsalve
+343271	Unersättliches Schmausen
 
 ; Boss: Shriekwing
-330711	Earsplitting Shriek
-340324	Sanguine Ichor
-342074	Echolocation
-342863	Echoing Screech
-345397	Wave of Blood
-343005	Blind Swipe
-328857	Exsanguinating Bite
-328897	Exsanguinated
-345936	Earsplitting Shriek
-328921	Blood Shroud
-329362	Echoing Sonar
-341684	The Blood Lantern
-341489	Bloodlight
+330711	Ohrenbetäubender Schrei
+340324	Blutiges Sekret
+342074	Echoortung
+342863	Echokreischen
+345397	Blutige Welle
+343005	Blinder Hieb
+328857	Schröpfender Biss
+328897	Geschröpft
+345936	Ohrenbetäubender Schrei
+328921	Blutverhüllung
+329362	Echosonar
+341684	Die Blutlaterne
+341489	Blutlicht
 
 ; Boss: Huntsman Altimor
-335114	Sinseeker
-334404	Spreadshot
-334971	Jagged Claws
-334945	Vicious Lunge
-334797	Rip Soul
-334884	Devour Soul
-334757	Shades of Bargast
-334860	Crushing Stone
-334852	Petrifying Howl
-334893	Stone Shards
+335114	Sündensucher
+334404	Streuschuss
+334971	Gezackte Klauen
+334945	Grausamer Sprung
+334797	Seele ausreißen
+334884	Seele verschlingen
+334757	Schemen von Bargast
+334860	Zerschmetternder Stein
+334852	Versteinerndes Heulen
+334893	Steinsplitter
 
 ; Boss: Sun King's Salvation
-326455	Fiery Strike
-326456	Burning Remnants
-325877	Ember Blast
-329518	Blazing Surge
-328579	Smoldering Remnants
-328479	Eyes on Target
--21954	Rockbound Vanquisher
-325440	Vanquishing Strike
-325442	Vanquished
-325506	Concussive Smash
--21993	Bleakwing Assassin
-341473	Crimson Flurry
-333145	Return to Stone
--21952	Vile Occultist
-333002	Vulgar Brand
--21953	Soul Infuser
--22082	Pestering Fiend
-326078	Infuser's Boon
-339251	Drained Soul
-328889	Greater Castigation
-337859	Cloak of Flames
-343026	Cloak of Flames
+326455	Flammender Stoß
+326456	Brennende Überreste
+325877	Glutexplosion
+329518	Lodernde Woge
+328579	Schwelende Überreste
+328479	Blick auf das Ziel
+-21954	Steingebundener Bezwinger
+325440	Bezwingender Stoß
+325442	Bezwungen
+325506	Erschütterndes Schmettern
+-21993	Ödschwingenassassine
+341473	Blutroter Schlaghagel
+333145	Steinabbild
+-21952	Übler Okkultist
+333002	Vulgäres Brandmal
+-21953	Seeleninfusorin
+-22082	Lästiger Unhold
+326078	Gabe der Infusorin
+339251	Ausgelaugte Seele
+328889	Große Züchtigung
+337859	Flammenumhang
+343026	Flammenumhang
 
 ; Boss: Artificer Xy'mox
-328437	Dimensional Tear
-325236	Glyph of Destruction
-326271	Stasis Trap
-335013	Rift Blast
-325399	Hyperlight Spark
-340758	Fleeting Spirits
-327902	Fixate
-327414	Possession
-340788	Seeds of Extinction
-329107	Extinction
-340860	Withering Touch
-328789	Annihilate
+328437	Dimensionenriss
+325236	Glyphe der Zerstörung
+326271	Stasisfalle
+335013	Rissschlag
+325399	Hyperlichtfunken
+340758	Flüchtige Geister
+327902	Fixieren
+327414	Besessenheit
+340788	Saaten der Ausrottung
+329107	Ausrottung
+340860	Verwelkende Berührung
+328789	Vernichten
 
 ; Boss: Hungering Destroyer
-;329298	Gluttonous Miasma
-334522	Consume
-329725	Expunge
-334266	Volatile Ejection
-329455	Desolate
-329774	Overwhelm
-332295	Growing Hunger
+;329298	Gefräßiges Miasma
+334522	Verschlingen
+329725	Ausmerzen
+334266	Instabiler Ausstoß
+329455	Verwüsten
+329774	Überwältigen
+332295	Wachsender Hunger
 
 ; Boss: Lady Inerva Darkvein
-331870	Focus Anima
-341621	Expose Desires
-325382	Warped Desires
-340452	Change of Heart
-325936	Shared Cognition
-325769	Bottled Anima
-325713	Lingering Anima
-324983	Shared Suffering
-332664	Concentrated Anima
-331573	Unconscionable Guilt
-331550	Condemn
+331870	Anima fokussieren
+341621	Entblößte Begierden
+325382	Verzerrte Begierden
+340452	Gesinnungswandel
+325936	Geteilte Kognition
+325769	Abgefüllte Anima
+325713	Verbleibende Anima
+324983	Geteiltes Leid
+332664	Konzentrierte Anima
+331573	Unerhörte Schuld
+331550	Verurteilen
 
 ; Boss: The Council of Blood
-346690	Duelist's Riposte
-346698	Summon Dutiful Attendant
-330978	Dredger Servants
-330965	Castellan's Cadre
-346790	Sintouched Blade
-346651	Drain Essence
-337110	Dreadbolt Volley
-346657	Prideful Eruption
-346945	Manifest Pain
-346681	Soul Spikes
-327497	Evasive Lunge
-331634	Dark Recital
-346800	Waltz of Blood
-346303	Violent Uproar
-330959	Danse Macabre
-330848	Wrong Moves
--22433	Afterimage of Baroness Frieda
-347350	Dancing Fever
+346690	Duellantenriposte
+346698	Pflichtbewussten Diener rufen
+330978	Gräberdiener
+330965	Kader des Kastellans
+346790	Sündenberührte Klinge
+346651	Essenz entziehen
+337110	Schreckensblitzsalve
+346657	Stolze Eruption
+346945	Schmerz manifestieren
+346681	Seelenstacheln
+327497	Ausweichender Sprung
+331634	Dunkler Vortrag
+346800	Blutwalzer
+346303	Heftiger Aufruhr
+330959	Totentanz
+330848	Falsche Tanzschritte
+-22433	Nachbild von Baronin Frieda
+347350	Tanzfieber
 
 ; Boss: Sludgefist
-331209	Hateful Gaze
-331314	Destructive Impact
-335293	Chain Link
-332318	Destructive Stomp
-341193	Falling Rubble
-335361	Stonequake
-332687	Colossal Roar
-335470	Chain Slam
-341102	Fractured Boulder
-340817	Seismic Shift
-341250	Gruesome Rage
+331209	Hasserfüllter Blick
+331314	Zerstörerischer Einschlag
+335293	Kettenverbindung
+332318	Zerstörerisches Stampfen
+341193	Fallender Schutt
+335361	Steinbeben
+332687	Kolossales Brüllen
+335470	Kettenschmettern
+341102	Fragmentierter Felsbrocken
+340817	Seismische Verschiebung
+341250	Grausige Wut
 
 ; Boss: Stone Legion Generals
-329636	Hardened Stone Form
-333387	Wicked Blade
-333913	Wicked Laceration
-334765	Heart Rend
-334929	Serrated Swipe
-339690	Crystalize
-342544	Pulverizing Meteor
-343063	Stone Spike
-342733	Ravenous Feast
-343898	Soultaint Effigy
-332406	Anima Infusion
-339885	Anima Infection
-342722	Stonewrath Exhaust
-332683	Shattering Blast
-329808	Hardened Stone Form
-342425	Stone Fist
-344496	Reverberating Eruption
-334498	Seismic Upheaval
-342256	Call Shadow Forces
-342655	Volatile Anima Infusion
-340037	Volatile Stone Shell
-342698	Volatile Anima Infection
+329636	Gehärtete Steingestalt
+333387	Heimtückische Klinge
+333913	Tückische Fleischwunde
+334765	Herzreißer
+334929	Zackenhieb
+339690	Kristallisieren
+342544	Pulverisierender Meteor
+343063	Steinstachel
+342733	Unersättliches Schmausen
+343898	Bildnis der Seelenbesudelung
+332406	Animainfusion
+339885	Animainfektion
+342722	Steinzornausstoß
+332683	Zerschmetternde Eruption
+329808	Gehärtete Steingestalt
+342425	Steinfaust
+344496	Hallende Eruption
+334498	Seismischer Aufruhr
+342256	Schattenstreitkräfte rufen
+342655	Flüchtige Animainfusion
+340037	Explosive Steinhülle
+342698	Flüchtige Animainfektion
 
 ; Boss: Sire Denathrius
-328936	Inevitable
-326699	Burden of Sin
-326707	Cleansing Pain
-326851	Blood Price
-327039	Feeding Time
-327796	Night Hunter
-327227	Command: Ravage
-327122	Ravage
-327992	Desolation
-328276	March of the Penitent
-329906	Carnage
-329951	Impale
--22131	Crimson Cabalist
+328936	Unausweichlich
+326699	Bürde der Sünde
+326707	Läuternder Schmerz
+326851	Blutpreis
+327039	Fütterungszeit
+327796	Nachtjäger
+327227	Befehl: Verheeren
+327122	Verheeren
+327992	Verwüstung
+328276	Marsch der Bußfertigen
+329906	Gemetzel
+329951	Durchbohren
+-22131	Blutroter Kabalist
 336162	Crescendo
-335873	Rancor
-329181	Wracking Pain
-333932	Hand of Destruction
-330042	Command: Massacre
-332585	Scorn
-332619	Shattering Pain
-332794	Fatal Finesse
-336008	Smoldering Ire
-332849	Reflection: Ravage
-333980	Reflection: Massacre
-344776	Vengeful Wail
-338738	Through the Mirror
-333979	Sinister Reflection
+335873	Groll
+329181	Zermürbender Schmerz
+333932	Hand der Zerstörung
+330042	Befehl: Massaker
+332585	Verachtung
+332619	Zersplitternder Schmerz
+332794	Fatale Finesse
+336008	Schwelender Zorn
+332849	Reflexion: Verheeren
+333980	Reflexion: Massaker
+344776	Rachsüchtiges Klagen
+338738	Durch den Spiegel
+333979	Finstere Reflexion
 
 
 ; -------------------------------------
@@ -246,180 +246,180 @@
 ; Boss: Trash
 
 ; Boss: The Tarragrue
-346985	Overpower
-346986	Crushed Armor
-347269	Chains of Eternity
-347274	Annihilating Smash
-347283	Predator's Howl
-347286	Unshakeable Dread
-347679	Hungering Mist
-352368	Remnant of Forgotten Torments
-352382	Remnant: Upper Reaches' Might
-352389	Remnant: Mort'regar's Echoes
-352398	Remnant: Soulforge Heat
-347668	Grasp of Death
-347490	Fury of the Ages
-347369	The Jailer's Gaze
+346985	Überwältigen
+346986	Zermalmte Rüstung
+347269	Ketten der Ewigkeit
+347274	Vernichtendes Schmettern
+347283	Raubtierheulen
+347286	Unerschütterlicher Schrecken
+347679	Hungernder Nebel
+352368	Überrest vergessener Qualen
+352382	Überrest: Macht der Oberen Ebenen
+352389	Überrest: Mort'regars Echos
+352398	Überrest: Seelenschmiedehitze
+347668	Todesgriff
+347490	Zorn der Zeiten
+347369	Blick des Kerkermeisters
 
 ; Boss: The Eye of the Jailer
-350828	Deathlink
-349979	Dragging Chains
-348074	Assailing Lance
-349028	Titanic Death Gaze
-350847	Desolation Beam
-350022	Fracture Soul
-351825	Shared Suffering
-350713	Slothful Corruption
-351827	Spreading Misery
-351413	Annihilating Glare
-350604	Hopeless Lethargy
-355232	Scorn and Ire
+350828	Todesverbindung
+349979	Zerrende Ketten
+348074	Angriffslanze
+349028	Titanischer Todesblick
+350847	Verwüstungsstrahl
+350022	Seele fragmentieren
+351825	Geteiltes Leid
+350713	Träge Verderbnis
+351827	Elendsverbreitung
+351413	Vernichtendes Starren
+350604	Hoffnungslose Lethargie
+355232	Verachtung und Zorn
 
 ; Boss: The Nine
-350542	Fragments of Destiny
-350555	Shard of Destiny
-350202	Unending Strike
-350342	Formless Mass
-350339	Siphon Vitality
-350365	Wings of Rage
-350286	Song of Dissolution
-350385	Reverberating Refrain
-350467	Call of the Val'kyr
-350031	Agatha's Eternal Blade
-350184	Daschla's Mighty Impact
-350158	Annhylde's Bright Aegis
-350098	Aradne's Falling Strike
-350109	Brynja's Mournful Dirge
-350039	Arthura's Crushing Gaze
-350475	Pierce Soul
-355294	Resentment
-350482	Link Essence
-350687	Word of Recall
+350542	Fragmente des Schicksals
+350555	Splitter des Schicksals
+350202	Unendlicher Stoß
+350342	Formlose Masse
+350339	Vitalität entziehen
+350365	Schwingen der Wut
+350286	Lied der Auflösung
+350385	Nachhallender Refrain
+350467	Ruf der Val'kyr
+350031	Agathas ewige Klinge
+350184	Daschlas mächtiger Einschlag
+350158	Annhyldes strahlende Aegis
+350098	Aradnes stürzender Schlag
+350109	Brynjas trauriges Klagelied
+350039	Arthuras zerschmetternder Blick
+350475	Seelenberster
+355294	Abneigung
+350482	Essenz verbinden
+350687	Wort des Rückrufs
 
 ; Boss: Remnant of Ner'zhul
-350676	Orb of Torment
-350073	Torment
-350388	Sorrowful Procession
-350469	Malevolence
-350489	Lingering Malevolence
-349890	Suffering
-355123	Grasp of Malice
-351066	Shatter
+350676	Kugel der Qual
+350073	Qual
+350388	Kummervolle Prozession
+350469	Böswilligkeit
+350489	Verbleibende Böswilligkeit
+349890	Leid
+355123	Griff der Bösartigkeit
+351066	Zerschmettern
 
 ; Boss: Soulrender Dormazain
-350217	Torment
-349985	Tormented Eruptions
-350647	Brand of Torment
-350422	Ruinblade
-350615	Call Mawsworn
--23517	Mawsworn Overlord
-351779	Agonizing Nova
-350650	Defiance
-350411	Hellscream
-354231	Soul Manacles
-351229	Rendered Soul
+350217	Qual
+349985	Gequälte Eruptionen
+350647	Brandmal der Qual
+350422	Klinge des Ruins
+350615	Schlundgebundene rufen
+-23517	Schlundgebundener Oberanführer
+351779	Peinigende Nova
+350650	Trotz
+350411	Höllschrei
+354231	Seelenfesseln
+351229	Zerfetzte Seele
 
 ; Boss: Painsmith Raznal
-348508	Reverberating Hammer
-355568	Cruciform Axe
-355778	Dualblade Scythe
-355786	Blackened Armor
-352052	Spiked Balls
-348456	Flameclasp Trap
-355505	Shadowsteel Chains
-355534	Shadowsteel Embers
-355536	Summon Shadowsteel Horror
-357735	Final Scream
+348508	Schallender Hammer
+355568	Kreuzaxt
+355778	Doppelklingensichel
+355786	Geschwärzte Rüstung
+352052	Stachelige Bälle
+348456	Flammengrifffalle
+355505	Schattenstahlketten
+355534	Schattenstahlglut
+355536	Schattenstahlschrecken beschwören
+357735	Letzter Schrei
 
 ; Boss: Guardian of the First Ones
-352385	Energizing Link
-356093	Energy Absorption
-350455	Unstable Energy
-352394	Radiant Energy
-352589	Meltdown
-352538	Purging Protocol
-350735	Elimination Pattern
-355352	Obliterate
-350732	Sunder
-358301	Energy Depletion
-352833	Disintegration
-352660	Form Sentry
-347359	Suppression Field
-350496	Threat Neutralization
+352385	Energetisierendes Band
+356093	Energieabsorption
+350455	Instabile Energie
+352394	Strahlende Energie
+352589	Kernschmelze
+352538	Läuterungsprotokoll
+350735	Beseitigungsmuster
+355352	Auslöschen
+350732	Zerreißen
+358301	Energieerschöpfung
+352833	Desintegration
+352660	Spähdrohne erschaffen
+347359	Unterdrückungsfeld
+350496	Bedrohungsneutralisierung
 
 ; Boss: Fatescribe Roh-Kalo
-351680	Invoke Destiny
-353432	Burden of Destiny
-353398	Anomalous Blast
-353603	Diviner's Probe
-353931	Twist Fate
-350421	Fated Conjunction
-350568	Call of Eternity
-357739	Realign Fate
-357144	Despair
-353122	Darkest Destiny
-353195	Extemporaneous Fate
-354367	Grim Portent
-354964	Runic Affinity
+351680	Schicksal herbeirufen
+353432	Bürde der Bestimmung
+353398	Anomale Explosion
+353603	Prüfung des Wahrsagers
+353931	Schicksalszerrung
+350421	Schicksalskonjunktion
+350568	Ruf der Ewigkeit
+357739	Schicksal neu ausrichten
+357144	Verzweiflung
+353122	Finsterstes Schicksal
+353195	Improvisiertes Schicksal
+354367	Finsteres Omen
+354964	Runische Affinität
 
 ; Boss: Kel'Thuzad
-354198	Howling Blizzard
-352530	Dark Evocation
-355389	Relentless Haunt
-348071	Soul Fracture
-348978	Soul Exhaustion
-348428	Piercing Wail
-346459	Glacial Wrath
-346530	Frozen Destruction
-347292	Oblivion's Echo
-348760	Frost Blast
-354289	Sinister Miasma
-352051	Necrotic Surge
-352293	Vengeful Destruction
-355137	Shadow Pool
-352379	Freezing Blast
-355055	Glacial Winds=wɪndz
-355127	Foul Winds=wɪndz
-352355	Undying Wrath
-352141	Banshee's Cry
-354639	Deep Freeze
-352348	Onslaught of the Damned
+354198	Heulender Blizzard
+352530	Dunkle Hervorrufung
+355389	Unerbittliche Heimsuchung
+348071	Seelenfraktur
+348978	Seelenerschöpfung
+348428	Durchdringendes Geheul
+346459	Gletscherzorn
+346530	Gefrorene Zerstörung
+347292	Echo der Vergessenheit
+348760	Frostschlag
+354289	Finsteres Miasma
+352051	Nekrotische Woge
+352293	Rachsüchtige Zerstörung
+355137	Schattenpfütze
+352379	Eisiger Stoß
+355055	Gletscherwinde
+355127	Besudelte Winde
+352355	Unvergänglicher Zorn
+352141	Bansheeschrei
+354639	Tieffrieren
+352348	Offensive der Verdammten
 
 ; Boss: Sylvanas Windrunner
-347504	Windrunner
-347807	Barbed Arrow
-356377	Desecrating Shot
-347670	Shadow Dagger
-349458	Domination Chains
-347704	Veil of Darkness
-347609	Wailing Arrow
-352650	Ranger's Heartseeker
-347607	Banshee's Mark
-353417	Rive
-348109	Banshee Wail
-350857	Banshee Shroud
+347504	Windläufer
+347807	Hakenpfeil
+356377	Entweihender Schuss
+347670	Schattendolch
+349458	Herrschaftsketten
+347704	Schleier der Dunkelheit
+347609	Klagender Pfeil
+352650	Herzsucher der Waldläuferin
+347607	Mal der Banshee
+353417	Aufreißen
+348109	Bansheeheulen
+350857	Bansheeschleier
 355540	Ruin
-352271	Haunting Wave
-351180	Lashing Wound
-351117	Crushing Dread
-351353	Summon Decrepit Orbs
-351939	Curse of Lethargy
-351672	Fury
-353929	Banshee's Bane
-354011	Bane Arrows
-353965	Banshee's Heartseeker
-354068	Banshee's Fury
-353952	Banshee Scream
-354147	Raze
-358704	Black Arrow
-358711	Rage
-356021	Dark Communion
-351591	Filth
-351562	Expulsion
-358185	Banshee's Weapons
-358181	Banshee's Blades
-358434	Death Knives
-358588	Merciless
+352271	Welle der Heimsuchung
+351180	Peitschende Wunde
+351117	Erdrückende Angst
+351353	Kugeln des Zerfalls beschwören
+351939	Fluch der Trägheit
+351672	Zorn
+353929	Bann der Banshee
+354011	Bannpfeile
+353965	Herzsucher der Banshee
+354068	Zorn der Banshee
+353952	Bansheekreischen
+354147	Einreißen
+358704	Schwarzer Pfeil
+358711	Wut
+356021	Dunkle Kommunion
+351591	Schmutz
+351562	Ausstoß
+358185	Waffen der Banshee
+358181	Klingen der Banshee
+358434	Todesmesser
+358588	Gnadenlos
 
 
 ; -------------------------------------
@@ -429,165 +429,165 @@
 ; Boss: Trash
 
 ; Boss: Vigilant Guardian
-360403	Force Field
-360458	Unstable Core
-360658	Pre-Fabricated Sentry
-361001	Wave of Disintegration
-364447	Dissonance
-365315	Volatile Materium
-360906	Refracted Blast
+360403	Kraftfeld
+360458	Instabiler Kern
+360658	Vorgefertigte Wache
+361001	Welle der Desintegration
+364447	Dissonanz
+365315	Flüchtige Materie
+360906	Gebrochene Explosion
 359610	Deresolution
-360412	Exposed Core
-364881	Matter Dissolution
-360162	Split Resolution
-360414	Pneumatic Impact
-364962	Core Overload
+360412	Freigelegter Kern
+364881	Materiezerfall
+360162	Geteilte Resolution
+360414	Pneumatischer Einschlag
+364962	Kernüberladung
 
 ; Boss: Skolex, the Insatiable Ravener
-359770	Ravening Burrow
-359829	Dust Flail
-360451	Retch
-359979	Rend
-359975	Riftmaw
-364522	Devouring Blood
-364778	Destroy
-359778	Ephemera Dust
-366070	Volatile Residue
+359770	Gefräßiges Eingraben
+359829	Staubflegel
+360451	Würgen
+359979	Verwunden
+359975	Rissschlund
+364522	Blutgelage
+364778	Zerstören
+359778	Ephemerastaub
+366070	Flüchtige Rückstände
 
 ; Boss: Artificer Xy'mox
-364465	Forerunner Rings
-362721	Dimensional Tear
-362803	Glyph of Relocation
-362885	Stasis Trap
-362849	Hyperlight Sparknova
-365681	Massive Blast
-364040	Hyperlight Ascension
-364030	Debilitating Ray
-363485	The Cartel Elite
+364465	Vorreiterringe
+362721	Dimensionenriss
+362803	Glyphe der Verlagerung
+362885	Stasisfalle
+362849	Hyperlichtfunkennova
+365681	Gewaltiger Schuss
+364040	Hyperlichtaufstieg
+364030	Entkräftender Strahl
+363485	Elite des Kartells
 
 ; Boss: Dausegne, the Fallen Oracle
-361966	Infused Strikes
-361018	Staggering Barrage
-359483	Domination Core
-361225	Encroaching Dominion
-361513	Obliteration Arc
-363200	Disintegration Halo
+361966	Erfüllte Schläge
+361018	Erschütterndes Bombardement
+359483	Herrschaftskern
+361225	Übergreifende Herrschaft
+361513	Auslöschungsbogen
+363200	Desintegrationskranz
 361630	Teleport
-361651	Siphoned Barrier
-365418	Total Dominion
+361651	Entzogene Barriere
+365418	Totale Herrschaft
 
 ; Boss: Prototype Pantheon
-360295	Necrotic Ritual
-360687	Runecarver's Deathtouch
-360259	Gloom Bolt
-364941	Windswept Wings
-361067	Bastion's Ward
-365269	Humbling Strikes
-361304	Wild Stampede
-361568	Withering Seeds
-366234	Animastorm
-361789	Hand of Destruction
-364839	Sinful Projection
-361689	Wracking Pain
-361608	Burden of Sin
-361745	Night Hunter
+360295	Nekrotisches Ritual
+360687	Todesberührung des Runenmetzes
+360259	Düsterer Blitz
+364941	Windgepeitschte Schwingen
+361067	Schutz der Bastion
+365269	Demütigende Schläge
+361304	Wilde Stampede
+361568	Welkende Samenkörner
+366234	Animasturm
+361789	Hand der Zerstörung
+364839	Sündhafte Projektion
+361689	Zermürbender Schmerz
+361608	Bürde der Sünde
+361745	Nachtjäger
 
 ; Boss: Lihuvim, Principal Architect
-368027	Resonance
-364652	Protoform Cascade
-363088	Cosmic Shift
-362622	Unstable Mote
-360159	Unstable Mote
-363795	Deconstructing Energy
-363130	Synthesize
-360869	Requisitioned
-366012	Terminal Mote
-362659	Alignment Shift
+368027	Resonanz
+364652	Protoformkaskade
+363088	Kosmische Verschiebung
+362622	Instabiles Partikel
+360159	Instabiles Partikel
+363795	Dekonstruktionsenergie
+363130	Synthetisieren
+360869	Requiriert
+366012	Erlösungspartikel
+362659	Ausrichtungsverschiebung
 
 ; Boss: Halondrus the Reclaimer
-360115	Reclaim
-367079	Seismic Tremors
-360114	Ephemeral Fissure
-361676	Earthbreaker Missiles
-369207	Planetcracker Beam
-360977	Lightshatter Beam
-365297	Crushing Prism
-368363	Shattered Prism
-364979	Shatter
-368529	Eternity Overdrive
-368969	Volatile Charge
+360115	Zurückgewinnen
+367079	Seismische Beben
+360114	Ephemerer Riss
+361676	Erdbrechergeschosse
+369207	Planetenknackerstrahl
+360977	Lichtsplitterstrahl
+365297	Erdrückendes Prisma
+368363	Zerschmettertes Prisma
+364979	Zerschmettern
+368529	Ewigkeitsturbogang
+368969	Unstete Ladung
 
 ; Boss: Anduin Wrynn
-362405	Kingsmourne Hungers
-362055	Lost Soul
-361989	Blasphemy
-365295	Befouled Barrier
-365021	Wicked Star
-361815	Hopebreaker
-366849	Domination Word: Pain
-364248	Dark Zeal
-362771	Soul Reaper
-362862	Army of the Dead
-363024	Necrotic Detonation
-365120	Grim Reflections
-363233	March of the Damned
-365872	Beacon of Hope
-365958	Hopelessness
+362405	Königsgram hungert
+362055	Verlorene Seele
+361989	Blasphemie
+365295	Besudelte Barriere
+365021	Tückischer Stern
+361815	Hoffnungsbrecher
+366849	Wort der Herrschaft: Schmerz
+364248	Dunkler Eifer
+362771	Seelenernter
+362862	Armee der Toten
+363024	Nekrotische Detonation
+365120	Düstere Reflexionen
+363233	Marsch der Verdammten
+365872	Flamme der Hoffnung
+365958	Hoffnungslosigkeit
 
 ; Boss: Lords of Dread
-360374	Rampaging Swarm
-360319	Unto Darkness
-360012	Cloud of Carrion
-361913	Manifest Shadows
-361934	Incomplete Form
-359960	Leeching Claws
-359963	Opened Veins
-360717	Infiltration of Dread
-360146	Fearful Trepidation
-360229	Slumber Cloud
-360284	Anguishing Strike
+360374	Schwarm der Raserei
+360319	In die Dunkelheit
+360012	Wolke der Fäulnis
+361913	Schatten manifestieren
+361934	Unvollständige Gestalt
+359960	Lechzende Klauen
+359963	Geöffnete Adern
+360717	Infiltration des Schreckens
+360146	Furchtsames Verzagen
+360229	Schlummerwolke
+360284	Quälender Schlag
 
 ; Boss: Rygelon
-362806	Dark Eclipse
-362275	Celestial Collapse
-362206	Event Horizon
-362390	Manifest Cosmos
-362184	Corrupted Strikes
-362172	Corrupted Wound
-363533	Massive Bang
-364386	Gravitational Collapse
-366606	Radiant Plasma
-362207	The Singularity
-364114	Shatter Sphere
-362088	Cosmic Irregularity
-366379	Stellar Shroud
-362798	Cosmic Radiation
-368080	Dark Quasar
+362806	Verdunkelung
+362275	Himmlischer Kollaps
+362206	Ereignishorizont
+362390	Kosmos manifestieren
+362184	Verderbte Stöße
+362172	Verderbte Wunde
+363533	Gewaltiger Knall
+364386	Gravitationszusammenbruch
+366606	Strahlendes Plasma
+362207	Die Singularität
+364114	Sphäre zerschmettern
+362088	Kosmische Unregelmäßigkeit
+366379	Stellarschleier
+362798	Kosmische Strahlung
+368080	Dunkler Quasar
 
 ; Boss: The Jailer
-362012	Eternity's End
-362028	Relentless Domination
-362075	Domination
-366132	Tyranny
-359809	Chains of Oppression
-363893	Martyrdom
-366545	Persecution
-365436	Torment
-360281	Rune of Damnation
-360373	Unholy Attunement
-363332	Unbreaking Grasp
-359856	Shattering Blast
-366285	Rune of Compulsion
-360562	Decimator
-365033	Desolation
-365150	Rune of Domination
-365212	Chains of Anguish
-365169	Defile
-366374	World Crusher
-366678	World Cracker
-367051	World Shatterer
-368383	Diverted Life Shield
-360378	Meteor Cleave
-368591	Death Sentence
+362012	Ende der Ewigkeit
+362028	Unerbittliche Herrschaft
+362075	Herrschaft
+366132	Tyrannei
+359809	Ketten der Unterdrückung
+363893	Martyrium
+366545	Verfolgung
+365436	Qual
+360281	Rune der Verdammnis
+360373	Unheilige Abstimmung
+363332	Eiserner Griff
+359856	Zerschmetternde Eruption
+366285	Rune des Zwangs
+360562	Dezimierer
+365033	Verwüstung
+365150	Rune der Herrschaft
+365212	Ketten der Pein
+365169	Entweihen
+366374	Weltenzermalmer
+366678	Weltenknacker
+367051	Weltzerschmetterer
+368383	Umgeleiteter Lebensschild
+360378	Meteorspalten
+368591	Todesurteil
 
 

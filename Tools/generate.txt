@@ -2,7 +2,7 @@
 
 void Main()
 {
-	var path = @"D:\Code\BigWigs_Voice";
+	var path = @"D:\Code\BigWigs_Voice_RU";
 
 	var spells = new List<(string Type, string Zone, string Boss, string Name, string Text)>();
 	string type = null;
@@ -10,7 +10,7 @@ void Main()
 	string boss = null;
 	
 	var lines = Directory
-		.EnumerateFiles(Path.Combine(path, "Tools"), "Spells*.txt")
+		.EnumerateFiles(Path.Combine(path, "Tools"), "Spells-*.txt")
 		.SelectMany(file => File.ReadAllLines(file));
 
 	foreach (var line in lines)
@@ -46,12 +46,19 @@ void Main()
 	
 	if (duplicates.Any())
 		throw new InvalidOperationException(duplicates.First().Key);
-
-	foreach (var spell in spells.Where(x => x.Type.Contains("Raid")))
+	
+	var removed = Directory
+		.EnumerateFiles(Path.Combine(path, "Sounds"), "*.ogg")
+		.Except(spells.Select(x => x.Name), new FileNameWithoutExtensionEqualityComparer());
+	
+	foreach (var file in removed)
+		File.Delete(file);
+	
+	foreach (var spell in spells)
 	{
 		using (var synth = new SpeechSynthesizer())
 		{
-			synth.SelectVoice("Microsoft Zira Desktop");
+			synth.SelectVoice("Microsoft Irina Desktop");
 			synth.SetOutputToWaveFile($"{Path.Combine(path, "Sounds", spell.Name)}.wav");
 			synth.SpeakSsml(GetSsml(spell.Text));
 		}
@@ -65,7 +72,7 @@ string GetSsml(string text)
 	return new XDocument(
 		new XElement(ns + "speak",
 			new XAttribute("version", "1.0"),
-			new XAttribute(XNamespace.Xml + "lang", "en"),
+			new XAttribute(XNamespace.Xml + "lang", "ru"),
 			text.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
 				.Select(x => x.Split('='))
 				.Select(x => new { Word = x.ElementAt(0) + " ", WordIpa = x.ElementAtOrDefault(1) })
@@ -75,4 +82,17 @@ string GetSsml(string text)
 				)
 			)
 		).ToString();
+}
+
+class FileNameWithoutExtensionEqualityComparer : IEqualityComparer<string>
+{
+	public bool Equals(string x, string y)
+	{
+		return Path.GetFileNameWithoutExtension(x) == Path.GetFileNameWithoutExtension(y);
+	}
+
+	public int GetHashCode(string obj)
+	{
+		return Path.GetFileNameWithoutExtension(obj).GetHashCode();
+	}
 }

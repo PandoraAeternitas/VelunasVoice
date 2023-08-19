@@ -1,8 +1,4 @@
-package-as: VelunasVoice
-wowi-archive-previous: no
+package-as: BigWigs_Voice_DE
 
 ignore:
-  - .gitignore
-  - .travis.yml
-  - README.md
   - Tools

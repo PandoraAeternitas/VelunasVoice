@@ -5,29 +5,29 @@
 ; -------------------------------------
 
 ; Boss: Strunraan, The Sky's Misery
-383496	Empowered Storm
-387199	Strunraan's Tempest
-387265	Overcharge
-387216	Shock Water
-385980	Thunder Vortex
-389951	Arc Expulsion
+383496	Ermächtigter Sturm
+387199	Strunraans Sturm
+387265	Überladen
+387216	Wasser elektrisieren
+385980	Donnervortex
+389951	Bogenausstoß
 
 ; Boss: Basrikron, The Shale Wing
-386259	Sundering Crash
-386059	Awaken Crag
-385270	Fracturing Tremor
-385137	Shale Breath
+386259	Zerreißendes Schmettern
+386059	Felsen erwecken
+385270	Brechendes Beben
+385137	Schieferatem
 
 ; Boss: Bazual, The Dreaded Flame
-389514	Lava Breath
-389725	Magma Eruption
-389431	Deterring Flame
-391247	Flame Infusion
-390635	Rain of Destruction
+389514	Lavaodem
+389725	Magmaeruption
+389431	Abschreckende Flamme
+391247	Flammeninfusion
+390635	Regen der Zerstörung
 
 ; Boss: Liskanoth, The Futurebane
-391026	Deep Freeze
-389960	Binding Ice
+391026	Tieffrieren
+389960	Bindungseis
 
 
 ; -------------------------------------
@@ -37,167 +37,167 @@
 ; Boss: Trash
 
 ; Boss: Eranog
-390715	Flamerift
-370649	Lava Flow
-370615	Molten Cleave
-396023	Incinerating Roar
-396022	Molten Spikes
-394906	Burning Wound
-370597	Kill Order
-370307	Army of Flame
-396094	Greater Flamerift
-394917	Leaping Flames
-393780	Pyroblast
+390715	Flammenriss
+370649	Lavafluss
+370615	Geschmolzenes Spalten
+396023	Einäscherndes Brüllen
+396022	Geschmolzene Stacheln
+394906	Brennende Wunde
+370597	Tötungsreihenfolge
+370307	Flammenarmee
+396094	Großer Flammenriss
+394917	Springende Flammen
+393780	Pyroschlag
 
 ; Boss: Terros
-380487	Rock Blast
-381315	Awakened Earth
-377166	Resonating Annihilation
-382458	Resonant Aftermath
-383073	Shattering Impact
-376279	Concussive Slam
-377505	Frenzied Devastation
-388393	Tectonic Barrage
-391592	Infused Fallout
+380487	Steineinschlag
+381315	Erweckte Erde
+377166	Resonierende Vernichtung
+382458	Resonierende Nachwirkung
+383073	Zerschmetternder Einschlag
+376279	Erschütterndes Schmettern
+377505	Rasende Verwüstung
+388393	Tektonischer Beschuss
+391592	Erfüllter Niederschlag
 
 ; Boss: The Primal Council
-373059	Primal Blizzard
-386661	Glacial Convocation
-371624	Conductive Mark
-372279	Chain Lightning
-386375	Storming Convocation
-397134	Earthen Pillar
-372056	Crush
-386370	Quaking Convocation
-374038	Meteor Axes
-372027	Slashing Blaze
-386289	Burning Convocation
+373059	Urzeitlicher Blizzard
+386661	Gletscheranrufung
+371624	Leitfähiges Zeichen
+372279	Kettenblitzschlag
+386375	Stürmische Konvokation
+397134	Irdene Säule
+372056	Zermalmen
+386370	Bebende Konvokation
+374038	Meteoräxte
+372027	Schlitzende Lohe
+386289	Brennende Konvokation
 
 ; Boss: Sennarth, the Cold Breath
-371976	Chilling Blast
-371979	Frost Expulsion
-372030	Sticky Webbing
-372044	Wrapped in Webs
-372238	Call Spiderlings
-372082	Enveloping Webs
-373405	Gossamer Burst
-385083	Web Blast
--24899	Frostbreath Arachnid
-374112	Freezing Breath
-372539	Apex of Ice
-373048	Suffocating Webs
-371983	Repelling Burst
+371976	Unterkühlende Welle
+371979	Frostausstoß
+372030	Klebriges Gespinst
+372044	In Spinnweben eingesponnen
+372238	Spinnlinge rufen
+372082	Einhüllende Gespinste
+373405	Gespinstausbruch
+385083	Netzschuss
+-24899	Frostatemarachnid
+374112	Gefrierender Atem
+372539	Spitze des Eises
+373048	Erstickende Netze
+371983	Abwehrender Ausbruch
 
 ; Boss: Dathea, Ascended
-387849	Coalescing Storm
-397431	Diverted Essence
-385812	Aerial Slash
-395501	Blowback
-384273	Storm Bolt
-390450	Static Cling
-388302	Raging Burst
-391686	Conductive Mark
-376943	Cyclone
-388410	Crosswinds
-375580	Zephyr Slam
-376851	Aerial Buffet=bʌf.ɪt
+387849	Sturm verdichten
+397431	Umgeleitete Essenz
+385812	Luftschlitzen
+395501	Gegenwind
+384273	Sturmblitz
+390450	Statische Anziehung
+388302	Wütender Ausbruch
+391686	Leitfähiges Zeichen
+376943	Wirbelsturm
+388410	Scherwinde
+375580	Zephyrschmettern
+376851	Luftstoß
 
 ; Boss: Kurog Grimtotem
-371981	Elemental Surge
-374861	Primal Shift
-372158	Sundering Strike
-382563	Magma Burst
-373329	Molten Rupture
-374023	Searing Carnage
-374554	Magma Pool
-373678	Biting Chill
-391019	Frigid Torrent
-372458	Absolute Zero
-391056	Enveloping Earth
-395893	Erupting Bedrock
-374691	Seismic Rupture
-373487	Lightning Crash
-390920	Shocking Burst
-374215	Thunder Strike
-374321	Breaking Gravel
-374427	Ground Shatter
-374430	Violent Upheaval
-374623	Frost Binds
-374624	Freezing Tempest
-374622	Storm Break
-391696	Lethal Current
-396241	Primal Attunement
-400473	Elemental Rage
-393314	Flamewrought Eradicator
-394416	Raging Inferno
-393309	Flame Smite
-393295	Icewrought Dominator
-391425	Icy Tempest
-393296	Frost Smite
-392098	Ironwrought Smasher
-391268	Earth Smite
-393459	Stormwrought Despoiler
-394719	Orb Lightning
-393429	Storm Smite
+371981	Elementarwoge
+374861	Urverschiebung
+372158	Zerschlagender Stoß
+382563	Magmaexplosion
+373329	Geschmolzene Eruption
+374023	Sengendes Gemetzel
+374554	Magmapfütze
+373678	Beißende Kälte
+391019	Eisiger Strom
+372458	Absoluter Nullpunkt
+391056	Einhüllende Erde
+395893	Ausbrechender Felsboden
+374691	Seismischer Riss
+373487	Blitzeinschlag
+390920	Schockausbruch
+374215	Donnerschlag
+374321	Brechender Schotter
+374427	Bodenerschütterung
+374430	Heftiges Emporstoßen
+374623	Frostfesseln
+374624	Eisiger Sturm
+374622	Sturmbruch
+391696	Tödlicher Strom
+396241	Urzeitliche Abstimmung
+400473	Elementare Wut
+393314	Flammengeschmiedeter Vernichter
+394416	Flammendes Inferno
+393309	Flammenpein
+393295	Eisgeschmiedeter Beherrscher
+391425	Eisiges Sturmgewitter
+393296	Frostpein
+392098	Eisengeschmiedeter Zertrümmerer
+391268	Erdpein
+393459	Sturmgeschmiedeter Räuber
+394719	Kugelblitz
+393429	Sturmpein
 
 ; Boss: Broodkeeper Diurna
-375809	Broodkeeper's Bond
-380175	Greatstaff of the Broodkeeper
-375889	Greatstaff's Wrath
-375829	Clutchwatcher's Rage
-376073	Rapid Incubation
-375871	Wildfire
-388716	Icy Shroud
-375870	Mortal Stoneclaws
-378782	Mortal Wounds
--25129	Primalist Reinforcements
-375716	Ice Barrage
-376266	Burrowing Strike
-376257	Tremors
-375485	Cauterizing Flashflames
-375575	Flame Sentry
-375475	Rending Bite
-375457	Chilling Tantrum
-375653	Static Jolt
-375620	Ionizing Charge
-375879	Broodkeeper's Fury
-392194	Empower Greatstaff
-380483	Empowered Greatstaff's Wrath
-388918	Frozen Shroud
-396779	Storm Fissure
-396269	Mortal Stoneslam
-396266	Mortal Suffering
-396264	Detonating Stoneslam
+375809	Bindung der Bruthüterin
+380175	Großstab der Bruthüterin
+375889	Zorn des Großstabs
+375829	Wut der Gelegehüterin
+376073	Schnelles Ausbrüten
+375871	Lauffeuer
+388716	Eisiger Schleier
+375870	Tödliche Steinklauen
+378782	Trauma
+-25129	Verstärkung der Primalisten
+375716	Eisbeschuss
+376266	Grabender Schlag
+376257	Beben
+375485	Kauterisierende Flammenblitze
+375575	Flammenwache
+375475	Verwundender Biss
+375457	Frostiger Tobsuchtsanfall
+375653	Statischer Schock
+375620	Ionisierende Aufladung
+375879	Wut der Bruthüterin
+392194	Großstab ermächtigen
+380483	Zorn des ermächtigten Großstabs
+388918	Eishülle
+396779	Sturmriss
+396269	Tödliches Steinschmettern
+396266	Tödliches Leid
+396264	Detonierendes Steinschmettern
 
 ; Boss: Raszageth the Storm-Eater
-377612	Hurricane Wing
-381615	Static Charge
-388643	Volatile Current
-395906	Electrified Jaws
-377594	Lightning Breath
-381251	Electric Lash
-382434	Storm Nova
-385065	Lightning Devastation
-396037	Surging Blast
-385553	Storm Bolt
-397382	Shattering Shroud
-397387	Flame Shield
-387261	Stormsurge
-391989	Stormcharged
-394582	Focused Charge
-394583	Scattered Charge
-385574	Tempest Wing
-377467	Fulminating Charge
-389870	Storm Break
-389878	Fuse
-385068	Ball Lightning
-385569	Raging Storm
-395929	Storm's Spite
-399713	Magnetic Charge
-386410	Thunderous Blast
-391285	Thunderstruck Armor
-394584	Inversion
-395885	Storm-Eater
+377612	Hurrikanschwinge
+381615	Statische Aufladung
+388643	Instabiler Strom
+395906	Elektrifizierte Kiefer
+377594	Blitzatem
+381251	Elektrisches Peitschen
+382434	Sturmnova
+385065	Blitzverheerung
+396037	Wogende Explosion
+385553	Sturmblitz
+397382	Zerspringende Hülle
+397387	Flammenschild
+387261	Sturmwoge
+391989	Sturmgeladen
+394582	Konzentrierte Aufladung
+394583	Zerstreute Aufladung
+385574	Orkanschwinge
+377467	Fulminante Ladung
+389870	Sturmbruch
+389878	Fusionieren
+385068	Kugelblitz
+385569	Tobender Sturm
+395929	Bosheit des Sturms
+399713	Magnetische Ladung
+386410	Donnernder Einschlag
+391285	Vom Donner gerührte Rüstung
+394584	Umkehrung
+395885	Sturmfresserin
 
 
 ; -------------------------------------
@@ -205,166 +205,166 @@
 ; -------------------------------------
 
 ; Boss: Trash
-408975	Dancing Steel
-418113	Dream Burst
-406210	Healing Bloom
-408811	Form Ranks
-411439	Sundering Strike
-406399	Zone of Azure Might
-411900	Gloom Fluid
-411905	Blaze Boil
-411892	Viscous Bile
-411808	Slime Ejection
-412498	Stagnating Pool
+408975	Tanzender Stahl
+418113	Traumeruption
+406210	Heilblüte
+408811	Reihen schließen
+411439	Zerschlagender Stoß
+406399	Zone der Azurmacht
+411900	Düstere Flüssigkeit
+411905	Siedelohe
+411892	Zähe Galle
+411808	Schleimauswurf
+412498	Abgestandene Lache
 
 ; Boss: Kazzara, the Hellforged
-401319	Hellsteel Carnage
-407196	Dread Rifts
-406530	Riftburn
-407069	Rays of Anguish
-402421	Molten Scar
-400430	Hellbeam
-403326	Wings of Extinction
-404743	Terror Claws
+401319	Höllenstahlgemetzel
+407196	Schreckensrisse
+406530	Rissbrand
+407069	Strahlen der Pein
+402421	Geschmolzene Narbe
+400430	Höllenstrahl
+403326	Schwingen der Ausrottung
+404743	Terrorklauen
 
 ; Boss: The Amalgamation Chamber
-401809	Corrupting Shadow
-403459	Coalescing Void
-405036	Umbral Detonation
-405084	Lingering Umbra
-407640	Shadows Convergence
-403699	Shadow Spike
-402617	Blazing Heat
-404732	Fiery Meteor
-403101	Molten Eruption
-404896	Swirling Flame
-403203	Flame Slash
-405394	Shadowflame Contamination
-405437	Gloom Conflagration
-405642	Blistering Twilight
-405645	Engulfing Heat
-408193	Convergent Eruption
-405914	Withering Vulnerability
-406783	Shadowflame Burst
-409385	Shadow and Flame
+401809	Verderbender Schatten
+403459	Verdichtende Leere
+405036	Umbraldetonation
+405084	Verweilende Umbra
+407640	Schattenkonvergenz
+403699	Schattenstachel
+402617	Brennende Hitze
+404732	Feuriger Meteor
+403101	Geschmolzene Eruption
+404896	Wabernde Flamme
+403203	Flammenschlitzen
+405394	Schattenflammenkontamination
+405437	Düstere Feuersbrunst
+405642	Sengendes Zwielicht
+405645	Einhüllende Hitze
+408193	Konvergente Eruption
+405914	Siechende Verwundbarkeit
+406783	Schattenflammenstoß
+409385	Schatten und Flamme
 
 ; Boss: The Forgotten Experiments
-406311	Infused Strikes
-407302	Infused Explosion
-406358	Rending Charge
-404472	Massive Slam
-404713	Bellowing Roar
-407327	Unstable Essence
-405492	Volatile Spew
-405375	Violent Eruption
-406227	Deep Breath
-407552	Temporal Anomaly
-405392	Disintegrate
+406311	Erfüllte Schläge
+407302	Energieerfüllte Explosion
+406358	Verwundender Ansturm
+404472	Massives Schmettern
+404713	Dröhnendes Gebrüll
+407327	Instabile Essenz
+405492	Flüchtige Galle
+405375	Heftige Eruption
+406227	Tiefer Atem
+407552	Zeitanomalie
+405392	Desintegration
 
 ; Boss: Assault of the Zaqali
-404382	Zaqali Aide
-404687	Barrier Backfire
-408959	Devastating Leap
-401258	Heavy Cudgel
-397383	Molten Barrier
-409275	Magma Flow
-397386	Lava Bolt
-401401	Blazing Spear
-408620	Scorching Roar
-401867	Volcanic Shield
-401108	Phoenix Rush
-401381	Blazing Focus
-407009	Vigorous Gale
-406585	Ignara's Fury
-410516	Catastrophic Slam
-410351	Flaming Cudgel
+404382	Helfer der Zaqali
+404687	Barrierenrückschlag
+408959	Verheerender Sprung
+401258	Schwerer Knüppel
+397383	Geschmolzene Barriere
+409275	Magmafluss
+397386	Lavablitz
+401401	Lodernder Speer
+408620	Sengendes Brüllen
+401867	Vulkanischer Schild
+401108	Phönixansturm
+401381	Lodernder Fokus
+407009	Energischer Windstoß
+406585	Ignaras Zorn
+410516	Katastrophales Schmettern
+410351	Brennender Knüppel
 
 ; Boss: Rashok, the Elder
-405316	Ancient Fury
-405821	Searing Slam
-403543	Lava Wave
-406851	Doom Flames
-406333	Shadowlava Blast
-400777	Charged Smash
-407641	Wrath of Djaruun
-407547	Flaming Slash
-407597	Earthen Crush
-401419	Elder's Conduit
-405091	Smoldering Rage
-410070	Unleash Shadowflame
-410075	Shadowflame Energy
+405316	Uralter Zorn
+405821	Sengendes Schmettern
+403543	Lavawelle
+406851	Verdammnisflammen
+406333	Schattenlavaschlag
+400777	Geladenes Schmettern
+407641	Zorn von Djaruun
+407547	Flammenhieb
+407597	Irdenes Zermalmen
+401419	Ältestenleitung
+405091	Schwelende Wut
+410070	Schattenflamme entfesseln
+410075	Schattenflammenenergie
 
 ; Boss: The Vigilant Steward, Zskarn
-405736	Dragonfire Traps
-405812	Animate Golems
-405592	Salvage Parts
-406678	Tactical Destruction
-406725	Shrapnel Bomb
-404010	Unstable Embers
-403978	Blast Wave
-404942	Searing Claws
-409942	Elimination Protocol
+405736	Drachenfeuerfallen
+405812	Golems beleben
+405592	Teile bergen
+406678	Taktische Zerstörung
+406725	Schrapnellbombe
+404010	Instabile Funken
+403978	Druckwelle
+404942	Sengende Klauen
+409942	Eliminierungsprotokoll
 
 ; Boss: Magmorax
-408358	Catastrophic Eruption
-402994	Molten Spittle
-408839	Searing Heat
-407879	Blazing Tantrum
-403740	Igniting Roar
-403671	Overpowering Stomp
-409093	Blazing Breath
-404846	Incinerating Maws
+408358	Katastrophale Eruption
+402994	Geschmolzener Speichel
+408839	Sengende Hitze
+407879	Lodernder Wutanfall
+403740	Entzündendes Brüllen
+403671	Überwältigendes Stampfen
+409093	Lodernder Atem
+404846	Einäschernder Schlund
 406712	Lava
-411633	Burning Chains
-411182	Explosive Magma
+411633	Brennende Ketten
+411182	Explosives Magma
 
 ; Boss: Echo of Neltharion
-410953	Volcanic Heart
-407221	Rushing Darkness
-401998	Calamitous Strike
-402902	Twisted Earth
-402115	Echoing Fissure
-403057	Surrender to Corruption
-401010	Corruption
-407036	Hidden in Void
-405433	Umbral Annihilation
-407790	Sunder Shadow
-403049	Shadow Barrier
-407936	Sunder Reality
-407919	Sundered Reality
-407917	Ebon Destruction
+410953	Vulkanisches Herz
+407221	Rauschende Finsternis
+401998	Verhängnisvoller Stoß
+402902	Entstellte Erde
+402115	Hallender Spalt
+403057	Sich der Verderbnis hingeben
+401010	Verderbnis
+407036	In der Leere verborgen
+405433	Schattenhafte Auslöschung
+407790	Schatten spalten
+403049	Schattenbarriere
+407936	Realität zerreißen
+407919	Zerrissene Realität
+407917	Schwarze Zerstörung
 
 ; Boss: Scalecommander Sarkareth
-401951	Oblivion
-401215	Emptiness Between Stars
-403997	Mind Fragment
-407576	Astral Flare
-410625	End Existence
-401383	Oppressing Howl
-401810	Glittering Surge
-401500	Scorching Bomb
-402746	Drifting Embers
-406989	Burning Ground
-401680	Mass Disintegrate
-402050	Searing Breath
-401330	Burning Claws
-401340	Blazing Blast
-404027	Void Bomb
-404218	Void Fracture
-404456	Abyssal Breath
-404754	Blasting Scream
-404403	Desolate Blossom
-404288	Infinite Duress
-411241	Void Claws
-411238	Void Blast
-406428	Motes of Oblivion
-403741	Cosmic Ascension
-405486	Hurtling Barrage
-403625	Scouring Eternity
-403520	Embrace of Nothingness
-408429	Void Slash
-408457	Void Blast
-404269	Ebon Might
-404769	Empty Strike
+401951	Auslöschung
+401215	Leere zwischen den Sternen
+403997	Verstandessplitter
+407576	Astralflimmern
+410625	Existenz beenden
+401383	Tyrannisierendes Heulen
+401810	Glimmerwoge
+401500	Versengende Bombe
+402746	Schwebende Funken
+406989	Brennender Boden
+401680	Massendesintegration
+402050	Sengender Atem
+401330	Brennende Klauen
+401340	Lodernde Explosion
+404027	Leerenbombe
+404218	Leerenfraktur
+404456	Abyssischer Atem
+404754	Vernichtender Schrei
+404403	Trostlose Blüte
+404288	Unendlicher Zwang
+411241	Leerenklauen
+411238	Leerenschlag
+406428	Partikel der Auslöschung
+403741	Kosmischer Aufstieg
+405486	Rasendes Bombardement
+403625	Vernichtende Ewigkeit
+403520	Umarmung des Nichts
+408429	Leerenschlitzer
+408457	Leerenschlag
+404269	Schwarzmacht
+404769	Leerer Schlag
 
 

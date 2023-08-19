@@ -5,49 +5,49 @@
 ; -------------------------------------
 
 ; Boss: Trash
-328740	Dark Lotus
-333227	Undying Rage
-333250	Reaver
-333787	Rage
-334051	Erupting Darkness
-332678	Gushing Wound
-332672	Bladestorm
-332706	Heal
-332612	Healing Wave
-332605	Hex
-332608	Lightning Discharge
-331927	Haywire
-331548	Metallic Jaws
-331846	W-00F
-332084	Self-Cleaning Cycle
-332157	Spinning Up
-340026	Wailing Grief
+328740	Dunkler Lotus
+333227	Unvergängliche Wut
+333250	Häscher
+333787	Wut
+334051	Ausbrechende Dunkelheit
+332678	Klaffende Wunde
+332672	Klingensturm
+332706	Heilung
+332612	Welle der Heilung
+332605	Verhexen
+332608	Blitzentladung
+331927	Durchgebrannt
+331548	Metallkiefer
+331846	W4U
+332084	Selbstreinigungszyklus
+332157	Aufdrehen
+340026	Klagende Trauer
 
 ; Boss: Hakkar the Soulflayer
-322736	Piercing Barb
-322746	Corrupted Blood
-322759	Blood Barrier
-323569	Spilled Essence
+322736	Durchbohrender Dorn
+322746	Verderbtes Blut
+322759	Blutbarriere
+323569	Vergossene Essenz
 
 ; Boss: The Manastorms
-320787	Summon Power Crystal
-323877	Echo Finger Laser X-treme
-320141	Diabolical Dooooooom!
-320823	Experimental Squirrel Bomb
-320132	Shadowfury
-321061	Aerial Rocket Chicken Barrage
+320787	Machtkristall beschwören
+323877	Fingerlaser Echo X-trem
+320141	Diabolischer Uuuuuuuuuntergang!
+320823	Experimentelle Eichhörnchenbombe
+320132	Schattenfuror
+321061	Interkontinentale Raketenhühnchensalve
 
 ; Boss: Dealer Xy'exa
-321948	Localized Explosive Contrivance
-320230	Explosive Contrivance
-323687	Arcane Lightning
+321948	Ortsgebundene explosive Vorrichtung
+320230	Explosive Vorrichtung
+323687	Arkaner Blitzschlag
 
 ; Boss: Mueh'zala
-327646	Soulcrusher
-325725	Cosmic Artifice
-325258	Master of Death
-326171	Shatter Reality
-334970	Coalescing
+327646	Seelenbrecher
+325725	Kosmischer Kunstgriff
+325258	Meister des Todes
+326171	Realitätszersplitterung
+334970	Verdichten
 
 
 ; -------------------------------------
@@ -55,47 +55,47 @@
 ; -------------------------------------
 
 ; Boss: Trash
-326450	Loyal Beasts
-325799	Rapid Fire
-344993	Jagged Swipe
-346866	Stone Breath
-342171	Loyal Stoneborn
-325523	Deadly Thrust
-325876	Curse of Obliteration
-325700	Collect Sins
-325701	Siphon Life
-326409	Thrash
-326441	Sin Quake
-326607	Turn to Stone
-326997	Powerful Swipe
-326891	Anguish
+326450	Treue Tiere
+325799	Schnellfeuer
+344993	Gezackter Rundumschlag
+346866	Steinatem
+342171	Treuer Steingeborener
+325523	Tödliches Zustoßen
+325876	Fluch der Auslöschung
+325700	Sünden sammeln
+325701	Lebensentzug
+326409	Hauen
+326441	Sündenbeben
+326607	In Stein verwandeln
+326997	Mächtiger Prankenhieb
+326891	Seelenpein
 
 ; Boss: Halkias, the Sin-Stained Goliath
-323001	Glass Shards
-322936	Crumbling Slam
-322943	Heave Debris
-322711	Refracted Sinlight
-339237	Sinlight Visions
+323001	Glassplitter
+322936	Zerbröckelndes Zerschmettern
+322943	Trümmer wuchten
+322711	Gebrochenes Sündenlicht
+339237	Sündenlichtvisionen
 
 ; Boss: Echelon
-319733	Stone Call
-328206	Curse of Stone
-319941	Stone Shattering Leap
-326389	Blood Torrent
+319733	Steinruf
+328206	Fluch des Steins
+319941	Steinzerschmetternder Sprung
+326389	Blutstrom
 
 ; Boss: High Adjudicator Aleez
-323538	Bolt of Power
-323552	Volley of Power
-323650	Haunting Fixation
-329340	Anima Fountain
+323538	Machtblitz
+323552	Machtsalve
+323650	Heimsuchende Fixierung
+329340	Animabrunnen
 
 ; Boss: Lord Chamberlain
-329104	Door of Shadows
-328791	Ritual of Woe
-323143	Telekinetic Toss
-323236	Unleashed Suffering
-323437	Stigma of Pride
-327885	Erupting Torment
+329104	Schattentor
+328791	Ritual des Kummers
+323143	Telekinetischer Wurf
+323236	Entfesseltes Leid
+323437	Stigma des Stolzes
+327885	Ausbrechende Pein
 
 
 ; -------------------------------------
@@ -103,57 +103,57 @@
 ; -------------------------------------
 
 ; Boss: Trash
-324909	Furious Thrashing
-324923	Bramble Burst
-322938	Harvest Essence
-322569	Hand of Thros
-322557	Soul Split
-331718	Spear Flurry
-340304	Poisonous Secretions
-340305	Crushing Leap
-340300	Tongue Lashing
-331743	Bucking Rampage
-340189	Pool of Radiance
-340160	Radiant Breath
-340208	Shred Armor
-340289	Triple Bite
-340279	Poisonous Discharge
-324776	Bramblethorn Coat
-324987	Mistveil Bite
-325224	Anima Injection
-324914	Nourish the Forest
-325418	Volatile Acid
-340544	Stimulate Regeneration
-326046	Stimulate Resistance
-321968	Bewildering Pollen
-322486	Overgrowth
+324909	Wütendes Hauen
+324923	Dornenausbruch
+322938	Essenzernte
+322569	Hand von Thros
+322557	Seelenspaltung
+331718	Speerhagel
+340304	Giftige Absonderungen
+340305	Zerschmetternder Sprung
+340300	Zungenschläge
+331743	Aufbäumendes Toben
+340189	Lache des Glanzes
+340160	Strahlender Atem
+340208	Rüstung schreddern
+340289	Dreifachbiss
+340279	Giftige Entladung
+324776	Stacheldornmantel
+324987	Nebelschleierbiss
+325224	Animainjektion
+324914	Waldpflege
+325418	Flüchtige Säure
+340544	Regeneration anregen
+326046	Widerstand stimulieren
+321968	Befremdlicher Pollen
+322486	Wildes Wachstum
 
 ; Boss: Ingra Maloch
-323137	Bewildering Pollen
-323177	Tears of the Forest
-323250	Anima Puddle
-323059	Droman's Wrath
-323057	Spirit Bolt
-328756	Repulsive Visage
-323149	Embrace Darkness
+323137	Befremdlicher Pollen
+323177	Tränen des Waldes
+323250	Animapfütze
+323059	Zorn der Dromanin
+323057	Geistblitz
+328756	Abstoßendes Antlitz
+323149	Die Dunkelheit begrüßen
 
 ; Boss: Mistcaller
-336499	Guessing Game
-321834	Dodge Ball
-321828	Patty Cake
-341709	Freeze Tag
-321891	Freeze Tag Fixation
+336499	Ratespiel
+321834	Völkerball
+321828	Klatschspiel
+341709	Fangspiel
+321891	Fangspielfixierung
 
 ; Boss: Tred'ova
-322651	Acid Expulsion
-322450	Consumption
-322550	Accelerated Incubation
-322563	Marked Prey
-326309	Decomposing Acid
-322614	Mind Link
-337235	Parasitic Pacification
-337249	Parasitic Incapacitation
-337255	Parasitic Domination
+322651	Säureausstoß
+322450	Verschlingen
+322550	Beschleunigtes Ausbrüten
+322563	Markierte Beute
+326309	Zersetzende Säure
+322614	Gedankenverbindung
+337235	Parasitäre Besänftigung
+337249	Parasitäre Lähmung
+337255	Parasitäre Kontrolle
 
 
 ; -------------------------------------
@@ -161,56 +161,56 @@
 ; -------------------------------------
 
 ; Boss: Trash
-330069	Concentrated Plague
-330092	Plaguefallen
-323572	Rolling Plague
-335882	Clinging Infestation
-327515	Fen Stinger
-329239	Creepy Crawlers
-330403	Wing Buffet=bʌf.ɪt
-327882	Blightbeak
-327233	Belch Plague
-327584	Beckon Slime
-320512	Corroded Claws
-318949	Festering Belch
-320517	Jagged Spines
-328180	Gripping Infection
-321935	Withering Filth
-328429	Crushing Embrace
-319898	Vile Spit
-336451	Bulwark of Maldraxxus
-328338	Call Venomfang
-328475	Enveloping Webbing
-330786	Oozing Carcass
-330816	Ghost Step
-328016	Wonder Grow
-327995	Doom Shroom
-328177	Fungistorm
+330069	Konzentrierte Seuche
+330092	Seuchensturz
+323572	Seuchensturm
+335882	Klammernder Befall
+327515	Sumpfstachel
+329239	Gruselige Kriecher
+330403	Flügelstoß
+327882	Seuchenschnabel
+327233	Seuchenrülpsen
+327584	Schleim anlocken
+320512	Verrostete Klauen
+318949	Schwärendes Rülpsen
+320517	Gezackte Stacheln
+328180	Packende Infektion
+321935	Ausdörrender Dreck
+328429	Erdrückende Umarmung
+319898	Übler Auswurf
+336451	Bollwerk von Maldraxxus
+328338	Giftzahn rufen
+328475	Einhüllende Netze
+330786	Schleimiger Kadaver
+330816	Geisterschritt
+328016	Wundersames Wachstum
+327995	Verdammnispilz
+328177	Fungisturm
 
 ; Boss: Globgrog
-324490	Beckon Slime
-324527	Plaguestomp
-324667	Slime Wave
+324490	Schleim anlocken
+324527	Seuchenstampfen
+324667	Schleimwelle
 
 ; Boss: Doctor Ickus
-322358	Burning Strain
-67382	Leap
-329217	Slime Lunge
-329110	Slime Injection
-332617	Pestilence Surge
-321406	Virulent Explosion
+322358	Brennender Erreger
+67382	Sprung
+329217	Schleimsprung
+329110	Schleiminjektion
+332617	Pestilenzwoge
+321406	Virulente Explosion
 
 ; Boss: Domina Venomblade
-332313	Brood Assassins
-325552	Cytotoxic Slash
-325245	Shadow Ambush
-336258	Solitary Prey
-336301	Web Wrap
+332313	Brutassassinen
+325552	Zytotoxisches Schlitzen
+325245	Schattenhafter Hinterhalt
+336258	Einzelgängerische Beute
+336301	Fangnetz
 
 ; Boss: Margrave Stradama
-322232	Infectious Rain
-322304	Malignant Growth
-322475	Plague Crash
+322232	Infektiöser Regen
+322304	Bösartiges Gewächs
+322475	Seuchenschmettern
 
 
 ; -------------------------------------
@@ -218,47 +218,47 @@
 ; -------------------------------------
 
 ; Boss: Trash
-341331	Anima Drain
-328170	Craggy Fracture
-322429	Severing Slice
-322433	Stoneskin
-335305	Barbed Shackles
-335308	Crushing Strike
-334558	Volatile Trap
-326827	Dread Bindings
-334329	Sweeping Slash
-334326	Bludgeoning Bash
-321178	Slam
-334918	Umbral Crash
-320991	Echoing Thrust
-334377	Explosive Vellum
-326836	Curse of Suppression
-321105	Sap Lifeblood
-324089	Z'rali's Essence
-324086	Shining Radiance
+341331	Animaentzug
+328170	Felsfraktur
+322429	Trennendes Schlitzen
+322433	Steinhaut
+335305	Gezackte Fesseln
+335308	Zerschmetternder Schlag
+334558	Entzündliche Falle
+326827	Schreckensbindungen
+334329	Weiter Schlitzer
+334326	Prügelknüppel
+321178	Zerschmettern
+334918	Umbralaufprall
+320991	Widerhallender Stoß
+334377	Explosives Pergament
+326836	Fluch der Unterdrückung
+321105	Lebensblut entziehen
+324089	Z'ralis Essenz
+324086	Glänzendes Strahlen
 
 ; Boss: Kryxis the Voracious
-319650	Vicious Headbutt
-319654	Hungering Drain
-319713	Juggernaut Rush
-319685	Severing Smash
+319650	Boshafter Kopfstoß
+319654	Lechzender Entzug
+319713	Niederwalzen
+319685	Trennendes Schmettern
 
 ; Boss: Executor Tarvold
-322554	Castigate
-322574	Coalesce Manifestation
-328494	Sintouched Anima
-323551	Residue
+322554	Züchtigen
+322574	Manifestation formen
+328494	Sündenbehaftete Anima
+323551	Rückstände
 
 ; Boss: Grand Proctor Beryllia
-325254	Iron Spikes
-325360	Rite of Supremacy
-328737	Fragment of Radiance
-326039	Endless Torment
+325254	Eisenstacheln
+325360	Ritus der Vorherrschaft
+328737	Fragment des Strahlens
+326039	Unaufhörliche Qual
 
 ; Boss: General Kaal
-323845	Wicked Rush
-323821	Piercing Blur
-322903	Gloom Squall
+323845	Tückischer Ansturm
+323821	Durchdringendes Verschwimmen
+322903	Dunkelbö
 
 
 ; -------------------------------------
@@ -266,41 +266,41 @@
 ; -------------------------------------
 
 ; Boss: Trash
-317661	Insidious Venom
-317963	Burden of Knowledge
-327655	Infuse Weapon
-327413	Rebellious Fist
-327648	Internal Strife
-317936	Forsworn Doctrine
-327332	Imbue Weapon
-317985	Crashing Strike
-328295	Greater Mending
-328288	Bless Weapon
+317661	Heimtückisches Gift
+317963	Bürde des Wissens
+327655	Waffe verzaubern
+327413	Rebellische Faust
+327648	Innere Zwietracht
+317936	Doktrin der Verschmähten
+327332	Waffe verzaubern
+317985	Schmetternder Schlag
+328295	Große Besserung
+328288	Waffe segnen
 328458	Diminuendo
-328462	Charged Spear
+328462	Geladener Speer
 
 ; Boss: Kin-Tara
-320966	Overhead Slash
-327481	Dark Lance
-321009	Charged Spear
-324368	Attenuated Barrage
-331251	Deep Connection
+320966	Überkopfschlitzer
+327481	Dunkle Lanze
+321009	Geladener Speer
+324368	Gedämpfter Beschuss
+331251	Tiefe Verbindung
 
 ; Boss: Ventunax
-324146	Dark Stride
-324205	Blinding Flash
-334485	Recharge
+324146	Dunkler Schritt
+324205	Blendendes Licht
+334485	Wiederaufladen
 
 ; Boss: Oryphrion
-324046	Recharge Anima
-324427	Empyreal Ordnance
-334053	Purifying Blast
-324608	Charged Stomp
+324046	Anima wiederaufladen
+324427	Himmlische Munition
+334053	Läuternde Druckwelle
+324608	Geladenes Stampfen
 
 ; Boss: Devos, Paragon of Doubt
-334625	Abyssal Detonation
-322818	Lost Confidence
-323943	Run Through
+334625	Abgründige Detonation
+322818	Verlorenes Selbstvertrauen
+323943	Durchstoßen
 
 
 ; -------------------------------------
@@ -308,101 +308,101 @@
 ; -------------------------------------
 
 ; Boss: Trash
-356031	Stasis Beam
-356324	Empowered Glyph of Restraint
-356548	Radiant Pulse
-356001	Beam Splicer
-356929	Chain of Custody
-356942	Lockdown
-356404	Lava Breath
-356407	Ancient Dread
-357512	Frenzied Charge
-356967	Hyperlight Backhand
-357029	Hyperlight Bomb
-355980	Refraction Shield
-355934	Hard Light Barrier
-347721	Open Cage
-355637	Quelling Strike
-355642	Hyperlight Salvo
-355782	Force Multiplier
-355477	Power Kick
-355480	Lethal Force
-358443	Blood in the Water
-355132	Invigorating Fish Stick
-355057	Cry of Mrrggllrrgg
-355429	Tidal Stomp
-355584	Charged Pulse
-355577	Crackle
-356133	Super Saison
-357226	Drifting Star
-357238	Wandering Pulsar
-357260	Unstable Rift
-357284	Reinvigorate
+356031	Stasisstrahl
+356324	Ermächtigte Glyphe der Bändigung
+356548	Strahlender Impuls
+356001	Schneidstrahl
+356929	Aufsichtskette
+356942	Abriegeln
+356404	Lavaodem
+356407	Uralter Schrecken
+357512	Rasender Ansturm
+356967	Hyperlichtrückhand
+357029	Hyperlichtbombe
+355980	Refraktionsschild
+355934	Hartlichtbarriere
+347721	Käfig öffnen
+355637	Unterdrückender Stoß
+355642	Hyperlichtsalve
+355782	Kraftmultiplikator
+355477	Energietritt
+355480	Tödliche Gewalt
+358443	Blut im Wasser
+355132	Kräftigendes Fischstäbchen
+355057	Schrei von Mrrggllrrgg
+355429	Gezeitenstampfen
+355584	Geladener Impuls
+355577	Knistern
+356133	Supersaisonbier
+357226	Treibender Stern
+357238	Wandernder Pulsar
+357260	Instabiler Riss
+357284	Neu stärken
 
 ; Boss: Zo'phex the Sentinel
-347949	Interrogation
-345990	Containment Cell
-345770	Impound Contraband
-346204	Armed Security
+347949	Verhör
+345990	Eindämmungszelle
+345770	Schmuggelware beschlagnahmen
+346204	Armierte Sicherheit
 
 ; Boss: The Grand Menagerie
-349627	Gluttony
-350010	Devoured Anima
-349663	Grip of Hunger
-349797	Grand Consumption
-349954	Purification Protocol
-349934	Flagellation Protocol
-349987	Venting Protocol
-350101	Chains of Damnation
-350086	Whirling Annihilation
+349627	Maßlosigkeit
+350010	Verschlungene Anima
+349663	Griff des Hungers
+349797	Großer Verzehr
+349954	Reinigungsprotokoll
+349934	Geißelungsprotokoll
+349987	Entlüftungsprotokoll
+350101	Ketten der Verdammnis
+350086	Wirbelnde Vernichtung
 
 ; Boss: Mailroom Mayhem
-346286	Hazardous Liquids
-346742	Fan Mail
-346962	Money Order
-346947	Unstable Goods
-346296	Instability
+346286	Gefährliche Flüssigkeiten
+346742	Rundschreiben
+346962	Postanweisung
+346947	Instabile Waren
+346296	Instabilität
 
 ; Boss: Myza's Oasis
-356482	Rotten Food
+356482	Verfaultes Essen
 353783	Teleport
-353835	Suppression
-350916	Security Slam
-353706	Rowdy
-350922	Menacing Shout
-350919	Crowd Control
-355438	Suppression Spark
-359028	Security Slam
+353835	Unterdrückung
+350916	Sicherheitsschmettern
+353706	Ungehobelt
+350922	Bedrohlicher Schrei
+350919	Kontrollverlust
+355438	Unterdrückungsfunke
+359028	Sicherheitsschmettern
 
 ; Boss: So'azmi
-357188	Double Technique
+357188	Doppeltechnik
 347610	Shuri
-347249	Divide
-347623	Quickblade
+347249	Teilen
+347623	Schnellklinge
 
 ; Boss: Hylbrande
-353312	Purifying Burst
-346116	Shearing Swings
-347094	Titanic Crash
-346959	Purged by Fire
-346766	Sanitizing Cycle
+353312	Läuternder Ausbruch
+346116	Scherende Schwünge
+347094	Titanenschmettern
+346959	Läuterung durch Feuer
+346766	Sterilisierungszyklus
 
 ; Boss: Timecap'n Hooktail
-347149	Infinite Breath
-347151	Hook Swipe
-354334	Hook'd!
-352345	Anchor Shot
-347371	Grapeshot
-350517	Double Time
+347149	Unendlicher Atem
+347151	Hakenhieb
+354334	Am Haken!
+352345	Ankerschuss
+347371	Kartätschenschuss
+350517	Zeitverdopplung
 
 ; Boss: So'leah
-351124	Summon Assassins
-353635	Collapsing Star
-350804	Collapsing Energy
-350796	Hyperlight Spark
-351086	Power Overwhelming
-351096	Energy Fragmentation
-351119	Shuriken Blitz
+351124	Assassinen beschwören
+353635	Kollabierender Stern
+350804	Kollabierende Energie
+350796	Hyperlichtfunken
+351086	Überwältigende Macht
+351096	Energiefragmentierung
+351119	Shurikenblitz
 
 
 ; -------------------------------------
@@ -410,58 +410,58 @@
 ; -------------------------------------
 
 ; Boss: Trash
-334748	Drain Fluids
-323190	Meat Shield
-323347	Clinging Darkness
-322756	Wrath of Zolramus
-321780	Animate Dead
-328667	Frostbolt Volley
-324293	Rasping Scream
-343470	Boneshatter Shield
-335143	Bonemend
-320822	Final Bargain
-335141	Dark Shroud
-327396	Grim Fate
-324394	Shatter
-324387	Frigid Spikes
-324372	Reaping Winds=wɪndz
-338353	Goresplatter
-338456	Mutilate
-338357	Tenderize
-327130	Repair Flesh
-323496	Throw Cleaver
-338606	Morbid Fixation
-333477	Gut Slice
-333479	Spew Disease
+334748	Flüssigkeiten entziehen
+323190	Fleischschild
+323347	Anhaftende Dunkelheit
+322756	Zorn von Zolramus
+321780	Totenbelebung
+328667	Frostblitzsalve
+324293	Krächzender Schrei
+343470	Knochenbrecherschild
+335143	Knochenflicken
+320822	Letzter Handel
+335141	Dunkler Schleier
+327396	Finsteres Schicksal
+324394	Zertrümmern
+324387	Frostige Stacheln
+324372	Sensenwinde
+338353	Blutspritzer
+338456	Verstümmeln
+338357	Weichklopfen
+327130	Fleisch reparieren
+323496	Spaltbeil werfen
+338606	Morbide Fixierung
+333477	Bauchschlitzen
+333479	Krankheit spucken
 
 ; Boss: Blightbone
-320596	Heaving Retch
-320630	Blood Gorge
-320637	Fetid Gas
-320655	Crunch
+320596	Erbrechendes Würgen
+320630	Blut verschlingen
+320637	Fauliges Gas
+320655	Knirschen
 
 ; Boss: Amarth, The Harvester
-321226	Land of the Dead
-321247	Final Harvest
-333488	Necrotic Breath
-320012	Unholy Frenzy
-320171	Necrotic Bolt
+321226	Land der Toten
+321247	Letzte Ernte
+333488	Nekrotischer Hauch
+320012	Unheilige Raserei
+320171	Nekrotischer Blitz
 
 ; Boss: Surgeon Stitchflesh
-320358	Awaken Creation
-322681	Meat Hook
-320376	Mutilate
-334476	Embalming Ichor
-320200	Stitchneedle
-334488	Sever Flesh
-320359	Escape
-343556	Morbid Fixation
+320358	Schöpfung erwecken
+322681	Fleischerhaken
+320376	Verstümmeln
+334476	Einbalsamierungssekret
+320200	Nähnadel
+334488	Fleisch trennen
+320359	Flucht
+343556	Morbide Fixierung
 
 ; Boss: Nalthor the Rimebinder
-320772	Comet Storm
-321368	Icebound Aegis
-320788	Frozen Binds
-321894	Dark Exile
+320772	Kometenhagel
+321368	Eisgebundene Aegis
+320788	Frostige Fesseln
+321894	Dunkles Exil
 
 
 ; -------------------------------------
@@ -469,74 +469,74 @@
 ; -------------------------------------
 
 ; Boss: Trash
-333241	Raging Tantrum
-319290	Meat Shield
-330700	Decaying Blight
-341969	Withering Discharge
-341949	Withering Blight
-330586	Devour Flesh
-332836	Chop
-330614	Vile Eruption
-342139	Battle Trance
-342125	Brutal Leap
-342135	Interrupting Roar
-317605	Whirlwind
-337037	Whirling Blade
-332708	Ground Smash
-333861	Ricocheting Blade
-334023	Bloodthirsty Charge
-330562	Demoralizing Shout
-333827	Seismic Stomp
-331275	Unbreakable Guard
-333845	Unbalancing Blow
-330716	Soulstorm
-330725	Shadow Vulnerability
-330868	Necrotic Bolt Volley
-333708	Soul Corruption
-342675	Bone Spear
-333294	Death Winds=wɪndz
-331223	Bonestorm
-331237	Bone Spikes
+333241	Rasender Tobsuchtsanfall
+319290	Fleischschild
+330700	Zersetzende Seuche
+341969	Verdorrender Ausstoß
+341949	Verdorrende Verseuchung
+330586	Fleisch verschlingen
+332836	Hacken
+330614	Abscheulicher Ausbruch
+342139	Kampftrance
+342125	Brutaler Sprung
+342135	Unterbrechendes Brüllen
+317605	Wirbelwind
+337037	Wirbelnde Klinge
+332708	Bodenzerkracher
+333861	Abprallende Klinge
+334023	Blutrünstiger Sturmangriff
+330562	Demoralisierender Ruf
+333827	Seismisches Stampfen
+331275	Unverwüstlicher Schutz
+333845	Gleichgewichtsstörender Schlag
+330716	Seelensturm
+330725	Schattenverwundbarkeit
+330868	Nekrotische Blitzsalve
+333708	Seelenverderbnis
+342675	Knochenspeer
+333294	Todeswinde
+331223	Knochensturm
+331237	Knochenstacheln
 
 ; Boss: An Affront of Challengers
-320063	Slam
-320069	Mortal Strike
-324085	Enrage
-326892	Fixate
-320248	Genetic Alteration
-333231	Searing Death
-320293	One With Death
-320272	Spectral Transference
-333540	Opportunity Strikes
+320063	Zerschmettern
+320069	Tödlicher Stoß
+324085	Wutanfall
+326892	Fixieren
+320248	Genetische Veränderung
+333231	Sengender Tod
+320293	Eins mit dem Tod
+320272	Spektrale Übertragung
+333540	Zusätzliche Angriffe
 
 ; Boss: Gorechop
-323515	Hateful Strike
-322795	Meat Hooks
-318406	Tenderizing Smash
+323515	Hasserfüllter Stoß
+322795	Fleischerhaken
+318406	Weichklopfendes Schmettern
 
 ; Boss: Xav the Unfallen
-320644	Brutal Combo
-320102	Blood and Glory
-331618	Oppressive Banner
-320050	Might of Maldraxxus
-320729	Massive Cleave
-317231	Crushing Slam
-339415	Deafening Crash
+320644	Brutale Combo
+320102	Blut und Ruhm
+331618	Banner der Unterdrückung
+320050	Macht von Maldraxxus
+320729	Massives Spalten
+317231	Schmetterhieb
+339415	Ohrenbetäubender Aufprall
 
 ; Boss: Kul'tharok
-319521	Draw Soul
-319637	Reclaimed Soul
-319626	Phantasmal Parasite
-319669	Spectral Reach
+319521	Seele entziehen
+319637	Zurückgeforderte Seele
+319626	Phantomparasit
+319669	Spektralreichweite
 
 ; Boss: Mordretha, the Endless Empress
-324079	Reaping Scythe
-323608	Dark Devastation
-323825	Grasping Rift
-323831	Death Grasp
-324449	Manifest Death
-339573	Echoes of Carnage
-339706	Ghostly Charge
-339550	Echo of Battle
+324079	Sensenschwung
+323608	Dunkle Verwüstung
+323825	Greifender Riss
+323831	Todesumklammerung
+324449	Manifestierter Tod
+339573	Echos des Gemetzels
+339706	Geisterhafter Ansturm
+339550	Echo der Schlacht
 
 

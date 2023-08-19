@@ -5,43 +5,43 @@
 ; -------------------------------------
 
 ; Boss: Trash
-163966	Activating
-164192	50,000 Volts
-164168	Dash
-166675	Shrapnel Blast
-176032	Flametongue
-156301	Blackrock Mortar
-176127	Cannon Barrage
-176023	Getting Angry
-166335	Storm Shield
-166341	Thunder Zone
-166380	Reckless Slash
-166397	Arcane Blitz
+163966	Aktivierung
+164192	50.000 Volt
+164168	Spurt
+166675	Schrapnellexplosion
+176032	Flammenzunge
+156301	Schwarzfelsmörser
+176127	Kanonensperrfeuer
+176023	Zornig werden
+166335	Sturmschild
+166341	Donnerzone
+166380	Tollkühner Hieb
+166397	Arkaner Blitz
 
 ; Boss: Rocketspark and Borka
-162407	X21-01A Missile Barrage
-163947	Recovering
-162171	Better Position
-162500	VX18-B Target Eliminator
-161091	New Plan!
-161090	Mad Dash
-162617	Slam
-161092	Unmanaged Aggression
+162407	Raketensalve X21-01A
+163947	Aufrappeln
+162171	Bessere Position
+162500	Zieleliminierer VX18-B
+161091	Neuer Plan!
+161090	Rasender Sprint
+162617	Zerschmettern
+161092	Ungezügelte Aggression
 
 ; Boss: Nitrogg Thundertower
-163550	Blackrock Mortar
-160681	Suppressive Fire
-166570	Slag Blast
-160965	Blackrock Mortar Shells
-156357	Blackrock Shrapnel
-161073	Blackrock Grenade
+163550	Schwarzfelsmörser
+160681	Sperrfeuer
+166570	Schlackeschlag
+160965	Schwarzfelsmörsergranaten
+156357	Schwarzfelsschrapnelle
+161073	Schwarzfelsgranate
 
 ; Boss: Skylord Tovra
-161801	Thunderous Breath
-162058	Spinning Spear
-161588	Diffused Energy
-162066	Freezing Snare
-163447	Hunter's Mark
+161801	Donneratem
+162058	Wirbelnder Speer
+161588	Diffusionsenergie
+162066	Frostige Verlangsamung
+163447	Mal des Jägers
 
 
 ; -------------------------------------
@@ -49,50 +49,50 @@
 ; -------------------------------------
 
 ; Boss: Trash
-167233	Bladestorm
-164632	Burning Arrows
-172636	Slippery Grease
-172982	Shattering Strike
-172952	Throw Gatecrasher
-172963	Gatecrasher
-172943	Brutal Inspiration
-173135	Thundering Stomp
-173105	Whirling Chains
-167815	Rending Cleave
-173324	Jagged Caltrops
-173384	Trampling Stampede
-158337	Frenzy
-173514	Lava Blast
-173480	Lava Barrage
+167233	Klingensturm
+164632	Brandpfeile
+172636	Rutschiger Schleim
+172982	Schmetterschlag
+172952	Torbrecher werfen
+172963	Torbrecher
+172943	Brutale Inspiration
+173135	Donnerndes Stampfen
+173105	Wirbelnde Ketten
+167815	Zerreißendes Spalten
+173324	Zackenkrähenfüße
+173384	Zerstampfende Stampede
+158337	Raserei
+173514	Lavaschlag
+173480	Lavabeschuss
 
 ; Boss: Fleshrender Nok'gar
-164426	Reckless Provocation
-;164632	Burning Arrows
-166923	Barbed Arrow Barrage
-164837	Savage Mauling
-164835	Bloodletting Howl
-164734	Shredding Swipes
+164426	Tollkühne Provokation
+;164632	Brandpfeile
+166923	Hakenpfeilsalve
+164837	Wildes Zerfleischen
+164835	Geheul des Aderlasses
+164734	Schreddernde Hiebe
 
 ; Boss: Grimrail Enforcers
-163689	Sanguine Sphere
-163705	Abrupt Restoration
-163740	Tainted Blood
-163665	Flaming Slash
-165152	Lava Sweep
-163376	Malfunctioning Jumper Cables 9000-XL
-163390	Ogre Traps
-163379	Big Boom
+163689	Blutige Sphäre
+163705	Plötzliche Wiederherstellung
+163740	Unreines Blut
+163665	Flammenhieb
+165152	Lavafeger
+163376	Defekte Überbrückungskabel 9000-XL
+163390	Ogerfallen
+163379	Der große Knall
 
 ; Boss: Oshir
-162415	Time to Feed
-178124	Breakout
-161256	Primal Assault
+162415	Essenszeit
+178124	Ausbruch
+161256	Urzeitlicher Angriff
 
 ; Boss: Skulloc
-168227	Gronn Smash
-168929	Cannon Barrage
-168965	Berserker Leap
-168348	Rapid Fire
+168227	Gronnschmettern
+168929	Kanonensperrfeuer
+168965	Berserkersprung
+168348	Schnellfeuer
 
 
 ; -------------------------------------
@@ -100,41 +100,41 @@
 ; -------------------------------------
 
 ; Boss: Trash
-152818	Shadow Mend
-152819	Shadow Word: Frailty
-164907	Void Slash
-152964	Void Pulse
-394512	Void Eruptions
-398151	Sinister Focus
-398154	Cry of Anguish
-398150	Domination
-153268	Exhume the Crypts
-398206	Death Blast
-156718	Necrotic Burst
-153395	Body Slam
+152818	Schattenheilung
+152819	Schattenwort: Gebrechlichkeit
+164907	Leerenschlitzer
+152964	Leerenimpuls
+394512	Leereneruptionen
+398151	Finsterer Fokus
+398154	Gepeinigter Schrei
+398150	Beherrschung
+153268	Krypta ausheben
+398206	Todesschlag
+156718	Nekrotischer Ausbruch
+153395	Bodycheck
 
 ; Boss: Sadana Bloodfury
-153153	Dark Communion
-153240	Daggerfall
-153224	Shadow Burn
-153094	Whispers of the Dark Star
-164974	Dark Eclipse
+153153	Dunkle Kommunion
+153240	Dolchsturz
+153224	Schattenbrand
+153094	Einflüsterungen des dunklen Sterns
+164974	Verdunkelung
 
 ; Boss: Nhallish
-153623	Planar Shift
-152801	Void Vortex
-152792	Void Blast
-153067	Void Devastation
-152979	Soul Shred
+153623	Planarverschiebung
+152801	Leerenvortex
+152792	Leerenschlag
+153067	Leerenverwüstung
+152979	Seele zerfetzen
 
 ; Boss: Bonemaw
-165578	Corpse Breath
-154175	Body Slam
-153804	Inhale
+165578	Leichenodem
+154175	Bodycheck
+153804	Einatmen
 
 ; Boss: Ner'zhul
-154442	Malevolence
-154350	Omen of Death
-154469	Ritual of Bones
+154442	Böswilligkeit
+154350	Todesomen
+154469	Knochenritual
 
 

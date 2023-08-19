@@ -5,57 +5,57 @@
 ; -------------------------------------
 
 ; Boss: Trash
-204901	Carrion Swarm
-204876	Fel Destruction
-204140	Shield of Eyes
-204608	Fel Prison
-205088	Blazing Hellfire
+204901	Aasschwarm
+204876	Teufelszerstörung
+204140	Augenschild
+204608	Teufelsgefängnis
+205088	Loderndes Höllenfeuer
 
 ; Boss: Festerface
-201598	Congealing Vomit
-201729	Uh Oh...
+201598	Erstarrendes Erbrochenes
+201729	Oh-oh...
 
 ; Boss: Shivermaw
-201379	Frost Breath
-201672	Relentless Storm
-201354	Tail Sweep
-201355	Wing Buffet=bʌf.ɪt
-202062	Frigid Winds=wɪndz
-201960	Ice Bomb
+201379	Frostatem
+201672	Erbarmungsloser Sturm
+201354	Schwanzfeger
+201355	Flügelstoß
+202062	Eisige Winde
+201960	Eisbombe
 
 ; Boss: Blood-Princess Thal'ena
-202779	Essence of the Blood Princess
-203381	Blood Call
-202947	Blood Swarm
+202779	Essenz der Blutprinzessin
+203381	Blutruf
+202947	Blutschwarm
 
 ; Boss: Mindflayer Kaahrj
-201148	Doom
-201146	Hysteria
-201153	Eternal Darkness
+201148	Verdammnis
+201146	Hysterie
+201153	Ewige Finsternis
 
 ; Boss: Millificent Manastorm
-201159	Delta Finger Laser X-treme
-201240	Elementium Squirrel Bomb
-201392	Thorium Rocket Chicken
-201572	Millificent's Rage
+201159	Fingerlaser Delta X-trem
+201240	Elementiumeichhörnchenbombe
+201392	Thoriumraketenhühnchen
+201572	Millificents Wut
 
 ; Boss: Anub'esset
-202217	Mandible Strike
-202341	Impale
-201863	Call of the Swarm
-202480	Fixated
-202485	Blistering Ooze
+202217	Mandibelschlag
+202341	Durchbohren
+201863	Ruf des Schwarms
+202480	Fixiert
+202485	Blasenbildender Schlamm
 
 ; Boss: Sael'orn
-202414	Venom Spray
-202306	Creeping Slaughter
-202473	Fel Detonation
+202414	Giftiger Auswurf
+202306	Schleichendes Gemetzel
+202473	Teufelsdetonation
 
 ; Boss: Fel Lord Betrug
-203641	Fel Slash
-202328	Mighty Smash
-205233	Execution
-210879	Seed of Destruction
+203641	Teufelsschlitzen
+202328	Mächtiges Schmettern
+205233	Hinrichtung
+210879	Saat der Zerstörung
 
 
 ; -------------------------------------
@@ -63,46 +63,46 @@
 ; -------------------------------------
 
 ; Boss: Trash
-200248	Arcane Blitz
-200261	Bonebreaking Strike
-197974	Bonecrushing Strike
-214003	Coup de Grace
-200343	Arrow Barrage
-200291	Knife Dance
-225573	Dark Mending
-203163	Sic Bats!
-227913	Felfrenzy
+200248	Arkaner Blitz
+200261	Knochenbrechender Schlag
+197974	Knochenzerschmetternder Schlag
+214003	Gnadenstoß
+200343	Pfeilsalve
+200291	Messertanz
+225573	Dunkle Besserung
+203163	Fasst, Fledermäuse!
+227913	Teufelsraserei
 
 ; Boss: The Amalgam of Souls
-196078	Call Souls
-194956	Reap Soul
-196587	Soul Burst
-194966	Soul Echoes
-195254	Swirling Scythe
-196930	Soulgorge
+196078	Seelen rufen
+194956	Seele ernten
+196587	Seelenbersten
+194966	Seelenechos
+195254	Wirbelnde Sense
+196930	Seelensättigung
 
 ; Boss: Illysanna Ravencrest
-197418	Vengeful Shear
-197478	Dark Rush
-197546	Brutal Glaive
-197696	Eye Beams
-197797	Arcane Blitz
-;197974	Bonecrushing Strike
+197418	Rachsüchtiges Scheren
+197478	Dunkler Ansturm
+197546	Brutale Gleve
+197696	Augenstrahlen
+197797	Arkaner Blitz
+;197974	Knochenzerschmetternder Schlag
 
 ; Boss: Smashspite the Hateful
-198073	Earthshaking Stomp
-198245	Brutal Haymaker
-198079	Hateful Gaze
-198446	Fel Vomit
+198073	Erderschütterndes Stampfen
+198245	Brutaler Schwinger
+198079	Hasserfüllter Blick
+198446	Teufelssputum
 
 ; Boss: Lord Kur'talos Ravencrest
-198635	Unerring Shear
-198820	Dark Blast
-198641	Whirling Blade
-199193	Dreadlord's Guile
-202019	Shadow Bolt Volley
-201733	Stinging Swarm
-199143	Cloud of Hypnosis
+198635	Unfehlbares Scheren
+198820	Dunkler Schlag
+198641	Wirbelnde Klinge
+199193	Arglist des Schreckenslords
+202019	Schattenblitzsalve
+201733	Stechender Schwarm
+199143	Hypnosewolke
 
 
 ; -------------------------------------
@@ -110,46 +110,46 @@
 ; -------------------------------------
 
 ; Boss: Trash
-238653	Shadow Wave
-236737	Fel Strike
-241598	Shadow Wall
-238543	Demonic Mending
-237565	Blistering Rain
-237391	Alluring Aroma
-239320	Felblaze Orb
-241772	Unearthy Howl
-242839	Throw Frost Tome
-242841	Throw Silence Tome
-239101	Throw Arcane Tome
-239232	Blinding Glare
-242760	Lumbering Crash
+238653	Schattenwelle
+236737	Teufelsschlag
+241598	Schattenwand
+238543	Dämonische Heilung
+237565	Brandheißer Regen
+237391	Verlockendes Aroma
+239320	Teufelslohenkugel
+241772	Unnatürliches Geheul
+242839	Frostfolianten werfen
+242841	Stillefolianten werfen
+239101	Arkanen Folianten werfen
+239232	Blendender Blick
+242760	Schwerfälliges Schmettern
 
 ; Boss: Agronox
-236524	Poisonous Spores
-235751	Timber Smash
-236650	Choking Vines
-236527	Fulminating Lashers
-238674	Fixate
-236639	Succulent Lashers
-236640	Toxic Sap
+236524	Giftige Sporen
+235751	Holzschmettern
+236650	Würgeranken
+236527	Knallpeitscher
+238674	Fixieren
+236639	Saftige Peitscher
+236640	Toxisches Harz
 
 ; Boss: Thrashbite the Scornful
-237276	Pulverizing Cudgel
-237726	Scornful Gaze
-243124	Heave Cudgel
+237276	Pulverisierender Knüppel
+237726	Spöttischer Blick
+243124	Knüppelschwung
 
 ; Boss: Domatrax
-238410	Aegis of Aggramar
-236543	Felsoul Cleave
-234107	Chaotic Energy
--15076	Fel Portal Guardian
-241622	Approaching Doom
+238410	Aegis von Aggramar
+236543	Teufelsseelenspalten
+234107	Chaotische Energie
+-15076	Teufelsportalwächter
+241622	Nahende Verdammnis
 
 ; Boss: Mephistroth
-233155	Carrion Swarm
-233196	Demonic Upheaval
-234817	Dark Solitude
-233206	Shadow Fade
+233155	Aasschwarm
+233196	Dämonischer Aufruhr
+234817	Düstere Einsamkeit
+233206	Schattenverblassen
 
 
 ; -------------------------------------
@@ -157,60 +157,60 @@
 ; -------------------------------------
 
 ; Boss: Trash
-210261	Sound Alarm
-212773	Subdue
-209027	Quelling Strike
-209033	Fortification
-225100	Charging Station
-209495	Charged Smash
-209512	Disrupting Energy
-209413	Suppress
-211464	Fel Detonation
-211391	Felblaze Puddle
-211470	Bewitch
-211473	Shadow Slash
-214692	Shadow Bolt Volley
-214688	Carrion Swarm
-214690	Cripple
-207979	Shockwave
-397897	Crushing Leap
-209378	Whirling Blades
-397892	Scream of Pain
-207980	Disintegration Beam
-397907	Impending Doom
-211299	Searing Glare
-212784	Eye Storm
-211401	Drifting Embers
-212031	Charged Blast
-209485	Drain Magic
-209477	Wild Detonation
-209410	Nightfall Orb
-209404	Seal Magic
-224377	Drifting Embers
-216110	Uncontrolled Blast
-216096	Wild Magic
-216000	Mighty Stomp
-216006	Shadowflame Breath
-214697	Picking Up
+210261	Alarm schlagen
+212773	Unterdrücken
+209027	Unterdrückender Stoß
+209033	Verstärkung
+225100	Aufladestation
+209495	Geladenes Schmettern
+209512	Unterbrechende Energie
+209413	Unterdrücken
+211464	Teufelsdetonation
+211391	Teufelslohenpfütze
+211470	Verhexen
+211473	Schattenschlag
+214692	Schattenblitzsalve
+214688	Aasschwarm
+214690	Verkrüppeln
+207979	Schockwelle
+397897	Zerschmetternder Sprung
+209378	Wirbelnde Klingen
+397892	Schmerzensschrei
+207980	Desintegrationsstrahl
+397907	Drohende Verdammnis
+211299	Sengendes Starren
+212784	Augensturm
+211401	Stiebende Funken
+212031	Geladener Schlag
+209485	Magie entziehen
+209477	Wilde Detonation
+209410	Kugel des Einbruchs der Nacht
+209404	Magie versiegeln
+224377	Stiebende Funken
+216110	Unkontrollierte Explosion
+216096	Wilde Magie
+216000	Mächtiges Stampfen
+216006	Schattenflammenatem
+214697	Aufheben
 
 ; Boss: Patrol Captain Gerdo
-207261	Resonant Slash
-219488	Streetsweeper
-207278	Arcane Lockdown
-207806	Signal Beacon
-207815	Flask of the Solemn Night
-215204	Hinder
+207261	Resonantes Schlitzen
+219488	Straßenkehrer
+207278	Arkane Abriegelung
+207806	Leuchtfeuersignal
+207815	Fläschchen der ehrwürdigen Nacht
+215204	Behindern
 
 ; Boss: Talixae Flamewreath
-207881	Infernal Eruption
-207906	Burning Intensity
-208165	Withering Soul
+207881	Höllische Eruption
+207906	Brennende Intensität
+208165	Verdorrende Seele
 
 ; Boss: Advisor Melandrus
-209602	Blade Surge
-224333	Enveloping Winds=wɪndz
-209628	Piercing Gale
-209676	Slicing Maelstrom
+209602	Klingenwoge
+224333	Einhüllende Winde
+209628	Durchbohrender Windstoß
+209676	Schneidender Mahlstrom
 
 
 ; -------------------------------------
@@ -218,37 +218,37 @@
 ; -------------------------------------
 
 ; Boss: Trash
-200658	Star Shower
-200684	Nightmare Toxin
-200768	Propelling Charge
-200580	Maddening Roar
-218759	Corruption Pool
-201226	Blood Assault
-201272	Blood Bomb
-225562	Blood Metamorphosis
-201399	Dread Inferno
+200658	Sternenschauer
+200684	Alptraumtoxin
+200768	Treibender Ansturm
+200580	Unerträgliches Brüllen
+218759	Verderbnislache
+201226	Blutattacke
+201272	Blutbombe
+225562	Blutmetamorphose
+201399	Schreckensinferno
 
 ; Boss: Archdruid Glaidalis
-198379	Primal Rampage
-198408	Nightfall
-196376	Grievous Tear
+198379	Urzeitliche Raserei
+198408	Einbruch der Nacht
+196376	Schmerzhafter Riss
 
 ; Boss: Oakheart
-204646	Crushing Grip
-204574	Strangling Roots
-204667	Nightmare Breath
-204666	Shattered Earth
+204646	Zerquetschender Griff
+204574	Würgewurzeln
+204667	Alptraumatem
+204666	Zerschmetterte Erde
 
 ; Boss: Dresaron
-199345	Down Draft
-199460	Falling Rocks
-191325	Breath of Corruption
+199345	Abwind
+199460	Fallende Steine
+191325	Odem der Verderbnis
 
 ; Boss: Shade of Xavius
-200050	Apocalyptic Nightmare
-200289	Growing Paranoia
-200185	Nightmare Bolt
-200238	Feed on the Weak
+200050	Apokalyptischer Alptraum
+200289	Wachsende Paranoia
+200185	Alptraumblitz
+200238	Die Schwachen aussaugen
 
 
 ; -------------------------------------
@@ -256,48 +256,48 @@
 ; -------------------------------------
 
 ; Boss: Trash
-225089	Lightning Prod
-196870	Storm
-195109	Arc Lightning
-195129	Thundering Stomp
-195046	Rejuvenating Waters
-196127	Spray Sand
-195284	Undertow
-196027	Aqua Spout
-197105	Polymorph: Fish
+225089	Blitzstoß
+196870	Sturm
+195109	Überspringender Blitz
+195129	Donnerndes Stampfen
+195046	Verjüngende Wasser
+196127	Sandfontäne
+195284	Tiefensog
+196027	Wasserschwall
+197105	Verwandlung: Fisch
 
 ; Boss: Warlord Parjesh
-192094	Impaling Spear
-192131	Throw Spear
-197064	Enrage
-197502	Restoration
-191900	Crashing Wave
-192053	Quicksand
-192072	Call Reinforcements
-196563	Call Reinforcements
+192094	Durchbohrender Speer
+192131	Speer werfen
+197064	Wutanfall
+197502	Wiederherstellung
+191900	Brechende Welle
+192053	Treibsand
+192072	Verstärkung rufen
+196563	Verstärkung rufen
 
 ; Boss: Lady Hatecoil
-193597	Static Nova
-193611	Focused Lightning
-193698	Curse of the Witch
-196610	Monsoon
+193597	Statische Nova
+193611	Gebündelter Blitz
+193698	Fluch der Hexe
+196610	Monsun
 
 ; Boss: King Deepbeard
-193051	Call the Seas
-193018	Gaseous Bubbles
-193093	Ground Slam
-193152	Quake
+193051	Gezeiten rufen
+193018	Gasige Blasen
+193093	Erde erschüttern
+193152	Beben
 
 ; Boss: Serpentrix
-191873	Submerge
-191855	Toxic Wound
+191873	Untertauchen
+191855	Toxische Wunde
 
 ; Boss: Wrath of Azshara
-192706	Arcane Bomb
-192617	Massive Deluge
-192675	Mystic Tornado
-192985	Cry of Wrath
-197365	Crushing Depths
+192706	Arkane Bombe
+192617	Massiver Regenguss
+192675	Mystischer Tornado
+192985	Schrei des Zorns
+197365	Erdrückende Tiefen
 
 
 ; -------------------------------------
@@ -305,62 +305,62 @@
 ; -------------------------------------
 
 ; Boss: Trash
-202298	Mug of Mead
-215430	Thunderstrike
-198888	Lightning Breath
-198892	Crackling Storm
-210875	Charged Pulse
-198745	Protective Light
-199805	Crackle
-198959	Etch
-198931	Healing Light
-198934	Rune of Healing
-215433	Holy Radiance
-192563	Cleansing Flames
-199050	Mortal Hew
-191508	Blast of Light
-199034	Valkyra's Advance
-200901	Eye of the Storm
-192158	Sanctify
-192288	Searing Light
-199210	Penetrating Shot
-199146	Bucking Charge
-199090	Rumbling Stomp
-199341	Bear Trap
-199726	Unruly Yell
-200969	Call Ancestor
+202298	Metkrug
+215430	Donnerschlag
+198888	Blitzatem
+198892	Knisternder Sturm
+210875	Geladener Impuls
+198745	Schützendes Licht
+199805	Knistern
+198959	Ätzen
+198931	Heilendes Licht
+198934	Rune der Heilung
+215433	Heiliges Strahlen
+192563	Läuternde Flammen
+199050	Tödlicher Schwung
+191508	Lichtexplosion
+199034	Vorstoß der Valkyra
+200901	Auge des Sturms
+192158	Heiligen
+192288	Sengendes Licht
+199210	Durchbohrender Schuss
+199146	Aufbäumender Ansturm
+199090	Grollendes Stampfen
+199341	Bärenfalle
+199726	Ungebärdiger Schrei
+200969	Ahnen herbeirufen
 
 ; Boss: Hymdall
-193092	Bloodletting Sweep
-193235	Dancing Blade
-191284	Horn of Valor
+193092	Verwundendes Fegen
+193235	Tanzende Klinge
+191284	Horn der Ehre
 
 ; Boss: Hyrja
-;200901	Eye of the Storm
-191976	Arcing Bolt
-192307	Sanctify
-192048	Expel Light
-192018	Shield of Light
+;200901	Auge des Sturms
+191976	Überspringender Blitz
+192307	Heiligen
+192048	Licht ausstoßen
+192018	Lichtschild
 
 ; Boss: Fenryr
-196512	Claw Frenzy
-196543	Unnerving Howl
-197558	Ravenous Leap
-196838	Scent of Blood
+196512	Klauenzorn
+196543	Nervenzerreißendes Heulen
+197558	Gieriger Sprung
+196838	Blutgeruch
 
 ; Boss: God-King Skovald
-193783	Aegis of Aggramar
-193668	Savage Blade
-193826	Ragnarok
-193659	Felblaze Rush
-193702	Infernal Flames
+193783	Aegis von Aggramar
+193668	Wilde Klinge
+193826	Apokalypse
+193659	Teufelsfeuerrausch
+193702	Höllische Flammen
 
 ; Boss: Odyn
-197961	Runic Brand
-200988	Spear of Light
-198077	Shatter Spears
-198263	Radiant Tempest
-201215	Summon Stormforged Obliterator
+197961	Runenbrandmal
+200988	Lichtspeer
+198077	Speere zertrümmern
+198263	Strahlender Orkan
+201215	Sturmgeschmiedeten Vernichter beschwören
 
 
 ; -------------------------------------
@@ -368,36 +368,36 @@
 ; -------------------------------------
 
 ; Boss: Trash
-194657	Soul Siphon
-198405	Bone Chilling Scream
-192019	Lantern of Darkness
-194615	Sea Legs
-199514	Torrent of Souls
-199589	Whirlpool of Souls
-216197	Surging Waters
-195293	Debilitating Shout
-198324	Give No Quarter
+194657	Seelenentzug
+198405	Markerschütternder Schrei
+192019	Laterne der Dunkelheit
+194615	Seetauglich
+199514	Seelenstrom
+199589	Seelenwirbel
+216197	Wirbelnde Wasser
+195293	Entkräftender Schrei
+198324	Schonungslos
 
 ; Boss: Ymiron, the Fallen King
-193977	Winds=wɪndz of Northrend
-193211	Dark Slash
-193364	Screams of the Dead
-193460	Bane
-193566	Arise, Fallen
+193977	Winde von Nordend
+193211	Dunkler Streich
+193364	Schreie der Toten
+193460	Dunkle Macht
+193566	Erhebt Euch, Gefallene
 
 ; Boss: Harbaron
-194216	Cosmic Scythe
-194231	Summon Shackled Servitor
-194668	Nether Rip
-194325	Fragment
+194216	Kosmische Sense
+194231	Gefesselten Diener beschwören
+194668	Netherriss
+194325	Bruchstück
 
 ; Boss: Helya
-197262	Taint of the Sea
-202088	Brackwater Barrage
-185539	Rapid Rupture
-196947	Submerged
-198495	Torrent
-227233	Corrupted Bellow
+197262	Verseuchung des Meeres
+202088	Brackwasserbeschuss
+185539	Schnelle Blutung
+196947	Untergetaucht
+198495	Strom
+227233	Verderbtes Brüllen
 
 
 ; -------------------------------------
@@ -405,56 +405,56 @@
 ; -------------------------------------
 
 ; Boss: Trash
-183407	Acid Splatter
-183465	Viscid Bile
-226388	Rancid Ooze
-202181	Stone Gaze
-226296	Piercing Shards
-193505	Fracture
-226287	Crush
-183526	War Drums
-183088	Avalanche
-202108	Petrifying Totem
-186576	Petrifying Cloud
-186616	Petrified
-183548	Worm Call
-193803	Metamorphosis
-183539	Barbed Tongue
-188587	Charskin
-200154	Burning Hatred
-193585	Bound
-226406	Ember Swipe
-201983	Frenzy
+183407	Säuretropfen
+183465	Klebrige Galle
+226388	Ranziger Schlamm
+202181	Steinblick
+226296	Stechende Splitter
+193505	Bruch
+226287	Zerschmettern
+183526	Kriegstrommeln
+183088	Lawine
+202108	Totem der Versteinerung
+186576	Versteinernde Wolke
+186616	Versteinert
+183548	Wurmruf
+193803	Metamorphose
+183539	Dornenzunge
+188587	Kohlhaut
+200154	Brennender Hass
+193585	Gebunden
+226406	Gluthieb
+201983	Raserei
 
 ; Boss: Rokmora
-188114	Shatter
-192800	Choking Dust
-188169	Razor Shards
-198024	Crystalline Ground
+188114	Zertrümmern
+192800	Erstickender Staub
+188169	Klingensplitter
+198024	Kristalliner Boden
 
 ; Boss: Ularogg Cragshaper
-198564	Stance of the Mountain
-193375	Bellow of the Deeps
-198428	Strike of the Mountain
-198496	Sunder
+198564	Haltung des Berges
+193375	Dröhnen der Tiefen
+198428	Schlag des Berges
+198496	Zerreißen
 
 ; Boss: Naraxas
-205549	Rancid Maw
-210150	Toxic Retch
-199178	Spiked Tongue
-199775	Frenzy
--12527	Wormspeaker Devout
-199246	Ravenous
+205549	Stinkendes Maul
+210150	Toxinauswurf
+199178	Hakenzunge
+199775	Raserei
+-12527	Frommer Wurmflüsterer
+199246	Unersättlich
 
 ; Boss: Dargrul the Underking
-200700	Landslide
-200732	Molten Crash
-200637	Magma Sculptor
-200404	Magma Wave
-200551	Crystal Spikes
-216407	Lava Geyser
-;200154	Burning Hatred
-200672	Crystal Cracked
+200700	Erdrutsch
+200732	Geschmolzenes Schmettern
+200637	Magmaformer
+200404	Magmawelle
+200551	Kristallstacheln
+216407	Lavageysir
+;200154	Brennender Hass
+200672	Kristall gesprungen
 
 
 ; -------------------------------------
@@ -462,96 +462,96 @@
 ; -------------------------------------
 
 ; Boss: Trash
-227999	Pennies From Heaven
-227966	Flashlight
-228279	Shadow Rejuvenation
-228278	Demoralizing Shout
-228280	Oath of Fealty
-228575	Alluring Aura
-228576	Allured
-228625	Banshee Wail
-228528	Heartbreaker
-241828	Trampling Stomp
-228603	Charge
-229489	Royalty
+227999	Sterntaler
+227966	Blitzlicht
+228279	Schattenverjüngung
+228278	Demoralisierender Ruf
+228280	Lehnseid
+228575	Verlockende Aura
+228576	Hingerissen
+228625	Bansheeheulen
+228528	Herzbrecher
+241828	Donnerndes Stampfen
+228603	Ansturm
+229489	Adel
 
 ; Boss: Opera Hall: Wikket
-227477	Summon Assistants
-227447	Defy Gravity
-227410	Wondrous Radiance
-227776	Magic Magnificent
+227477	Assistenten beschwören
+227447	Frei und schwerelos
+227410	Wundersames Strahlen
+227776	Herrliche Magie
 
 ; Boss: Opera Hall: Westfall Story
-227568	Burning Leg Sweep
-227453	Dashing Flame Gale
-227777	Thunder Ritual
-227783	Wash Away
+227568	Feuriger Fußfeger
+227453	Flinker Flammensturm
+227777	Donnerritual
+227783	Wegspülen
 
 ; Boss: Opera Hall: Beautiful Beast
-228025	Heat Wave
-228019	Leftovers
-228221	Severe Dusting
-228225	Sultry Heat
-227985	Dent Armor
-227987	Dinner Bell!
+228025	Hitzewelle
+228019	Essensreste
+228221	Eins auswischen
+228225	Heißer Feger
+227985	Rüstung verbeulen
+227987	Es ist angerichtet!
 232153	Kara Kazham!
 
 ; Boss: Maiden of Virtue
-227817	Holy Bulwark
-227823	Holy Wrath
-227800	Holy Shock
-227809	Holy Bolt
-227508	Mass Repentance
-227789	Sacred Ground
+227817	Heiliges Bollwerk
+227823	Heiliger Zorn
+227800	Heiliger Schock
+227809	Heiliger Blitz
+227508	Massenbuße
+227789	Heiliger Boden
 
 ; Boss: Attumen the Huntsman
-228895	Enrage
-227363	Mighty Stomp
-227365	Spectral Charge
-227493	Mortal Strike
-228852	Shared Suffering
+228895	Wutanfall
+227363	Mächtiges Stampfen
+227365	Spektraler Sturmangriff
+227493	Tödlicher Stoß
+228852	Geteiltes Leid
 
 ; Boss: Moroes
-227736	Vanish
-227742	Garrote
-227851	Coat Check
-227872	Ghastly Purge
-227545	Mana Drain
-227578	Healing Stream
-227646	Iron Whirlwind
-227616	Empowered Arms
-227463	Whirling Edge
-227672	Will Breaker
+227736	Verschwinden
+227742	Erdrosseln
+227851	Garderobenwechsel
+227872	Geisterhafte Läuterung
+227545	Manasauger
+227578	Heilender Fluss
+227646	Eiserner Wirbelwind
+227616	Erstarkte Waffen
+227463	Wirbelnde Schneide
+227672	Willensbrecher
 
 ; Boss: The Curator
-227267	Summon Volatile Energy
-227279	Power Discharge
-227254	Evocation
+227267	Unstete Energie beschwören
+227279	Kraftentladung
+227254	Hervorrufung
 
 ; Boss: Shade of Medivh
-227592	Frostbite
-227615	Inferno Bolt
-227628	Piercing Missiles
-228334	Guardian's Image
-228269	Flame Wreath
-227779	Ceaseless Winter
+227592	Erfrierung
+227615	Infernoblitz
+227628	Durchstoßende Geschosse
+228334	Abbild des Wächters
+228269	Flammenkranz
+227779	Unerbittlicher Winter
 
 ; Boss: Mana Devourer
-227457	Energy Discharge
-227618	Arcane Bomb
-227523	Energy Void
-227502	Unstable Mana
-227297	Coalesce Power
+227457	Energieentladung
+227618	Arkane Bombe
+227523	Energievakuum
+227502	Instabiles Mana
+227297	Macht verschmelzen
 
 ; Boss: Viz'aduum the Watcher
-229151	Disintegrate
-229159	Chaotic Shadows
-229083	Burning Blast
-229284	Command: Bombardment
-229248	Fel Beam
-229905	Soul Harvest
-230084	Stabilize Rift
-230066	Shadow Phlegm
+229151	Desintegration
+229159	Chaotische Schatten
+229083	Brennschlag
+229284	Befehl: Bombardement
+229248	Teufelsstrahl
+229905	Seelenernte
+230084	Riss stabilisieren
+230066	Schattenauswurf
 
 
 ; -------------------------------------
@@ -559,41 +559,41 @@
 ; -------------------------------------
 
 ; Boss: Trash
-249081	Suppression Field
-245510	Corrupting Void
-249078	Void Diffusion
-248227	Dark Matter
+249081	Unterdrückungsfeld
+245510	Verderbende Leere
+249078	Leerendiffusion
+248227	Dunkle Materie
 
 ; Boss: Zuraal the Ascended
-246134	Null Palm
-244579	Decimate
-244602	Coalesced Void
-244433	Umbra Shift
-244653	Fixate
-244621	Void Tear
+246134	Hand der Nichtigkeit
+244579	Dezimieren
+244602	Verdichtete Leere
+244433	Umbralverschiebung
+244653	Fixieren
+244621	Leerenriss
 
 ; Boss: Saprish
-245873	Void Trap
-247206	Overload Trap
-247245	Umbral Flanking
-245802	Ravaging Darkness
-248831	Dread Screech
+245873	Leerenfalle
+247206	Falle überladen
+247245	Umbralflankierung
+245802	Verheerende Dunkelheit
+248831	Kreischen des Grauens
 
 ; Boss: Viceroy Nezhar
--15926	Section 8
-244751	Howling Dark
-246324	Entropic Force
-244906	Collapsing Void
-248804	Dark Bulwark
-248736	Eternal Twilight
+-15926	Abschnitt 8
+244751	Heulende Dunkelheit
+246324	Entropische Kraft
+244906	Kollabierende Leere
+248804	Dunkles Bollwerk
+248736	Ewiges Zwielicht
 
 ; Boss: L'ura
-247795	Call to the Void
-248535	Naaru's Lament
-247930	Umbral Cadence
-245164	Fragment of Despair
-247816	Backlash
-249009	Grand Shift
+247795	Anrufung der Leere
+248535	Naarutrauer
+247930	Umbralkadenz
+245164	Fragment der Verzweiflung
+247816	Heimzahlen
+249009	Große Verschiebung
 
 
 ; -------------------------------------
@@ -601,42 +601,42 @@
 ; -------------------------------------
 
 ; Boss: Trash
-211217	Arcane Slicer
-226206	Arcane Reconstitution
-211115	Phase Breach
-210750	Collapsing Rift
-211745	Fel Strike
-226285	Demonic Ascension
-211632	Brand of the Legion
+211217	Arkanes Schlitzen
+226206	Arkane Rekonstitution
+211115	Phasenbresche
+210750	Kollabierender Riss
+211745	Teufelsschlag
+226285	Dämonischer Aufstieg
+211632	Brandmal der Legion
 211757	Portal: Argus
 
 ; Boss: Ivanyr
-196805	Nether Link
-196562	Volatile Magic
-196392	Overcharge Mana
+196805	Netherverbindung
+196562	Instabile Magie
+196392	Mana überladen
 
 ; Boss: Corstilax
-195804	Quarantine
-196068	Suppression Protocol
-196115	Cleansing Force
-220481	Destabilized Orb
+195804	Quarantäne
+196068	Unterdrückungsprotokoll
+196115	Läuternde Macht
+220481	Destabilisierte Kugel
 
 ; Boss: General Xakal
-197776	Fel Fissure
-197810	Wicked Slam
-212030	Shadow Slash
+197776	Teufelsriss
+197810	Tückisches Zerschmettern
+212030	Schattenschlag
 
 ; Boss: Nal'tira
--12687	Section 1
-200040	Nether Venom
-200284	Tangled Web
-211543	Devour
+-12687	Abschnitt 1
+200040	Nethergift
+200284	Verheddertes Netz
+211543	Verschlingen
 
 ; Boss: Advisor Vandros
-203176	Accelerating Blast
-202974	Force Bomb
-220871	Unstable Mana
-203882	Banish In Time
+203176	Beschleunigende Explosion
+202974	Machtbombe
+220871	Instabiles Mana
+203882	In der Zeit verbannen
 
 
 ; -------------------------------------
@@ -644,55 +644,55 @@
 ; -------------------------------------
 
 ; Boss: Trash
-193069	Nightmares
-191735	Deafening Screech
-196799	Unleash Fury
-196796	Fel Gaze
-210202	Foul Stench
-194071	A Mother's Love
-191527	Deafening Shout
-193164	Gift of the Doomsayer
+193069	Alpträume
+191735	Ohrenbetäubendes Kreischen
+196799	Zorn entfesseln
+196796	Teufelsblick
+210202	Übler Gestank
+194071	Mutterliebe
+191527	Ohrenbetäubender Schrei
+193164	Gabe der Verdammnisverkünderin
 196249	Meteor
-202615	Torment
-202607	Anguished Souls
+202615	Folter
+202607	Gequälte Seelen
 
 ; Boss: Tirathon Saltheril
-191941	Darkstrikes
-191853	Furious Flames
-191823	Furious Blast
-190830	Hatred
-192504	Metamorphosis
-202740	Metamorphosis
+191941	Dunkelstöße
+191853	Wütende Flammen
+191823	Heftige Explosion
+190830	Hass
+192504	Metamorphose
+202740	Metamorphose
 
 ; Boss: Inquisitor Tormentorum
-200898	Teleport
-202455	Void Shield
-212564	Inquisitive Stare
-200904	Sapped Soul
-196208	Seed of Corruption
-201488	Frightening Shout
-199918	Shadow Crash
-203685	Flesh to Stone
+200898	Teleportieren
+202455	Leerenschild
+212564	Befragendes Starren
+200904	Geschwächte Seele
+196208	Saat der Verderbnis
+201488	Furchterregender Schrei
+199918	Schattengeschoss
+203685	Fleisch zu Stein
 
 ; Boss: Ash'golm
-192522	Fissure
-192520	Volcano
-192517	Brittle
+192522	Bodenriss
+192520	Vulkan
+192517	Spröde
 192519	Lava
--12727	Countermeasures
+-12727	Gegenmaßnahmen
 
 ; Boss: Glazer
-194945	Lingering Gaze
-194323	Focusing
-202046	Beam
-194333	Beamed
+194945	Verweilender Blick
+194323	Fokussieren
+202046	Strahl
+194333	Angestrahlt
 
 ; Boss: Cordana Felsong
-197333	Fel Glaive
-206567	Stolen Light
-197422	Creeping Doom
-197796	Avatar of Vengeance
-204481	Elune's Light
-213583	Deepening Shadows
+197333	Teufelsgleve
+206567	Gestohlenes Licht
+197422	Schleichende Verdammnis
+197796	Avatar der Rache
+204481	Elunes Licht
+213583	Wachsende Schatten
 
 

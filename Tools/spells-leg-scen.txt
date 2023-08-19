@@ -5,58 +5,58 @@
 ; -------------------------------------
 
 ; Boss: An Impossible Foe
-236161	Plague Zone
-243027	Shadow Shield
-243111	Dark Fury
-242989	Translocate
+236161	Seuchenbereich
+243027	Schattenschild
+243111	Dunkler Furor
+242989	Translokation
 
 ; Boss: Closing the Eye
-242015	Blink
-234728	Arcane Annihilation
-231443	Shadow Barrage
-231522	Draw Power
-232672	Creeping Shadows
-233248	Seed of Darkness
+242015	Blinzeln
+234728	Arkane Auslöschung
+231443	Schattensperrfeuer
+231522	Macht sammeln
+232672	Schleichende Schatten
+233248	Saat der Dunkelheit
 
 ; Boss: End of the Risen Threat
-235984	Mana Sting
-235833	Arcane Blitz
-235823	Knife Dance
-236720	Frenzied Assault
-237188	Ignite Soul
-237191	Fel Stomp
+235984	Manastich
+235833	Arkaner Blitz
+235823	Messertanz
+236720	Rasender Angriff
+237188	Seele entzünden
+237191	Teufelsstampfen
 
 ; Boss: Feltotem's Fall
-242733	Fel Burst
-243224	Fel Surge Totem
-241687	Sonic Scream
-238471	Fel Hardened Scales
+242733	Teufelsschlag
+243224	Teufelssogtotem
+241687	Schallender Schrei
+238471	Teufelsgehärtete Schuppen
 
 ; Boss: The God-Queen's Fury
-237945	Blood of the Father
-237730	Dark Wings
-238694	Throw Spear
-238691	Spear of Vengeance
-237949	Ancestral Knowledge
-237914	Runic Detonation
-237947	Berserker's Rage
-237857	Bladestorm
+237945	Blut des Vaters
+237730	Dunkle Schwingen
+238694	Speer werfen
+238691	Speer der Rache
+237949	Wissen der Ahnen
+237914	Runische Detonation
+237947	Berserkerwut
+237857	Klingensturm
 
 ; Boss: The Highlord's Return
-240790	Nether Storm
-233473	Holy Ward
-234423	Drain Life
-234422	Aura of Decay
-234428	Summon Tormenting Eye
-234631	Smash
-236572	Annihilate
-234920	Shadow Sweep
-234673	Netherstomp
-234676	Twisted Reflection
+240790	Nethersturm
+233473	Heiliger Zauberschutz
+234423	Blutsauger
+234422	Aura des Verfalls
+234428	Quälendes Auge beschwören
+234631	Schmettern
+236572	Vernichten
+234920	Schattenschwung
+234673	Netherstampfen
+234676	Verzerrte Reflexion
 
 ; Boss: Thwarting the Twins
-202081	Fixate
-235308	Purgatory
-235578	Grasp from Beyond
+202081	Fixieren
+235308	Fegefeuer
+235578	Griff aus den Weiten
 
 
